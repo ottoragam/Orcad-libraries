@@ -1,0 +1,27 @@
+\t (01:00:43) allegro 17.2 S040 Windows SPB 64-bit Edition
+\t (01:00:43)     Journal start - Thu Jun 07 18:48:05 2018
+\t (01:00:43)         Host=G-PC User=ottor Pid=12956 CPUs=4
+\t (01:00:43) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession ottor D:\design\PCB\orcad\projects\pnp-feeder\feeder_driver.brd
+\t (01:00:43) 
+\d (01:00:43) Design opened: D:/design/PCB/orcad/components/opamps/lm324/soic14.dra
+\i (01:00:44) trapsize 318
+\t (01:00:44) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (01:00:44) generaledit 
+\i (01:00:45) zoom out 1 
+\i (01:00:45) setwindow pcb
+\i (01:00:45) zoom out -0.4833 1.9943
+\i (01:00:45) trapsize 636
+\i (01:00:45) zoom in 1 
+\i (01:00:45) setwindow pcb
+\i (01:00:45) zoom in 0.0382 0.8115
+\i (01:00:45) trapsize 318
+\i (01:00:52) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (01:00:53) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged soic14
+\i (01:00:53) opencd D:/design/PCB/orcad/projects/pnp-feeder/feeder_driver.brd 
+\t (01:00:53) Opening existing design...
+\i (01:00:53) trapsize 1662
+\i (01:00:53) trapsize 1688
+\i (01:00:54) trapsize 1662
+\t (01:00:54) Grids are drawn 4.0000, 4.0000 apart for enhanced viewability.
+\i (01:00:54) trapsize 1662
+\t (01:00:54)     Journal end - Thu Jun 07 18:48:15 2018

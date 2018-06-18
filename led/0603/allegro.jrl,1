@@ -1,0 +1,21 @@
+\t (00:09:27) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:09:27)     Journal start - Wed May 30 12:07:51 2018
+\t (00:09:27)         Host=G-PC User=ottor Pid=10164 CPUs=4
+\t (00:09:27) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:09:27) 
+\d (00:09:27) Design opened: D:/design/PCB/orcad/components/led/0603/LED0603WAVE.dra
+\i (00:09:27) generaledit 
+\i (00:09:29) create symbol 
+\i (00:09:31) fillin "led0603wave.psm"
+\t (00:09:31) Creating package symbol 'D:/design/PCB/orcad/components/led/0603/led0603wave.psm'.
+\t (00:09:31) Starting Create symbol...
+\i (00:09:31) generaledit 
+\i (00:09:32) open 
+\i (00:09:36) fillin "D:\design\PCB\orcad\components\microcontrollers\psoc\psoc5\100tqfp.dra"
+\i (00:09:36) cd "D:\design\PCB\orcad\components\microcontrollers\psoc\psoc5"
+\t (00:09:36) Opening existing design...
+\i (00:09:36) trapsize 772
+\i (00:09:36) trapsize 784
+\i (00:09:36) trapsize 772
+\i (00:09:36) trapsize 794
+\t (00:09:36)     Journal end - Wed May 30 12:08:01 2018

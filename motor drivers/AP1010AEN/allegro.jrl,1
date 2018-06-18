@@ -1,0 +1,175 @@
+\t (00:05:18) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:05:18)     Journal start - Mon May 28 16:01:09 2018
+\t (00:05:18)         Host=G-PC User=ottor Pid=14900 CPUs=4
+\t (00:05:18) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:05:18) 
+\d (00:05:18) Design opened: D:/design/PCB/orcad/components/motor drivers/AP1010AEN/AP1010AEN.dra
+\i (00:05:18) generaledit 
+\i (00:05:19) pick grid -1.8458 1.9965
+\t (00:05:19) last pick:  -1.8000 2.0000
+\i (00:05:21) pick grid -1.3018 1.4351
+\t (00:05:21) last pick:  -1.3000 1.4000
+\i (00:05:24) pick grid -2.0024 1.7745
+\t (00:05:24) last pick:  -2.0000 1.8000
+\i (00:05:25) pick grid -2.0024 1.8050
+\t (00:05:25) last pick:  -2.0000 1.8000
+\i (00:05:26) pick grid tgl -1.7761 1.9573
+\t (00:05:26) last pick:  -1.8000 2.0000
+\i (00:05:27) pick grid 1.8838 1.9660
+\t (00:05:27) last pick:  1.9000 2.0000
+\i (00:05:27) prepopup 2.6279 1.8659
+\i (00:05:28) pick grid 2.6366 1.9617
+\t (00:05:28) last pick:  2.6000 2.0000
+\i (00:05:29) drag_start grid 1.9360 2.0792
+\i (00:05:29) move 
+\t (00:05:29) last pick:  -1.8000 2.2000
+\t (00:05:29) Pick new location for the element(s).
+\i (00:05:29) drag_stop grid 2.5061 1.2306
+\i (00:05:29) generaledit 
+\i (00:05:30) undo 
+\i (00:05:30) trapsize 218
+\i (00:05:30) generaledit 
+\i (00:05:31) pick grid -2.3767 1.8050
+\t (00:05:31) last pick:  -2.4000 1.8000
+\i (00:05:31) drag_start grid -2.3288 1.9921
+\i (00:05:33) drag_stop -1.9154 -2.3379
+\i (00:05:33) pick grid -2.0416 -0.9932
+\t (00:05:33) last pick:  -2.0000 -1.0000
+\i (00:05:34) prepopup -2.0416 -0.9932
+\i (00:05:37) pick grid 5.8700 3.1932
+\t (00:05:37) last pick:  5.9000 3.2000
+\i (00:05:38) pick grid -1.3235 1.9878
+\t (00:05:38) last pick:  -1.3000 2.0000
+\e (00:05:39) Command not found: Del
+\i (00:05:40) pick grid -1.9850 1.8833
+\t (00:05:40) last pick:  -2.0000 1.9000
+\e (00:05:40) Command not found: Del
+\i (00:05:41) prepopup -4.3481 2.5231
+\i (00:05:42) delete 
+\i (00:05:42) generaledit 
+\i (00:05:43) pick grid -1.6673 2.0095
+\t (00:05:43) last pick:  -1.7000 2.0000
+\i (00:05:46) delete 
+\i (00:05:46) generaledit 
+\i (00:05:47) pick grid 2.0013 0.8911
+\t (00:05:47) last pick:  2.0000 0.9000
+\i (00:05:48) delete 
+\i (00:05:48) generaledit 
+\i (00:05:49) pick grid -1.7979 -1.9854
+\t (00:05:49) last pick:  -1.8000 -2.0000
+\i (00:05:50) delete 
+\i (00:05:50) generaledit 
+\i (00:05:56) setwindow form.mini
+\i (00:05:56) FORM mini class PACKAGE GEOMETRY 
+\i (00:05:59) FORM mini subclass SILKSCREEN_TOP 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) add rect 
+\i (00:06:10) pick grid -2.0198 2.0095
+\t (00:06:10) last pick:  -2.0000 2.0000
+\i (00:06:11) pick grid -0.8318 1.0391
+\t (00:06:11) last pick:  -0.8000 1.0000
+\i (00:06:16) shape edit boundary 
+\i (00:06:18) pick grid -2.0068 1.0043
+\t (00:06:18) last pick:  -2.0000 1.0000
+\t (00:06:18) Pick the edit starting point on the shape boundary.
+\i (00:06:20) pick grid -2.0024 0.9956
+\t (00:06:20) last pick:  -2.0000 1.0000
+\t (00:06:20) Pick the next vertex or the closing point on the shape.
+\i (00:06:23) pick grid -1.9502 -1.9593
+\t (00:06:23) last pick:  -2.0000 -2.0000
+\t (00:06:23) Pick the next vertex or the closing point on the shape.
+\i (00:06:28) pick grid 2.0448 -1.9506
+\t (00:06:28) last pick:  2.0000 -2.0000
+\t (00:06:28) Pick the next vertex or the closing point on the shape.
+\i (00:06:31) pick grid 1.9534 2.0444
+\t (00:06:31) last pick:  2.0000 2.0000
+\t (00:06:31) Pick the next vertex or the closing point on the shape.
+\i (00:06:32) pick grid -0.8492 1.9834
+\t (00:06:32) last pick:  -0.8000 2.0000
+\t (00:06:32) Pick the next vertex or the closing point on the shape.
+\t (00:06:32) Pick DONE or a start point on another shape or void boundary.
+\i (00:06:33) prepopup -1.8327 1.7397
+\i (00:06:34) done 
+\i (00:06:34) generaledit 
+\i (00:06:36) Esc 
+\i (00:06:36) pick grid -1.9981 1.9573
+\t (00:06:36) last pick:  -2.0000 2.0000
+\i (00:06:36) prepopup -1.9981 1.9573
+\i (00:06:40) pop dyn_option_select '@:@Property edit' 
+\i (00:06:40) property edit 
+\i (00:06:47) generaledit 
+\i (00:06:47) pick grid -3.3515 1.7310
+\t (00:06:47) last pick:  -3.4000 1.7000
+\i (00:06:48) pick grid -1.9589 1.5395
+\t (00:06:48) last pick:  -2.0000 1.5000
+\i (00:06:49) pick grid -2.0155 1.5918
+\t (00:06:49) last pick:  -2.0000 1.6000
+\i (00:06:50) pick grid -1.9850 1.6135
+\t (00:06:50) last pick:  -2.0000 1.6000
+\i (00:06:50) prepopup -1.9850 1.6135
+\i (00:06:51) pop dyn_option_select @:@Delete 
+\i (00:06:51) delete 
+\i (00:06:51) generaledit 
+\i (00:06:54) add rect 
+\i (00:07:11) color192 
+\i (00:07:14) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:07:15) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 17 0
+\i (00:07:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:07:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:17) QtSignal CVDColorTable CVDColorButton0:7 clicked
+\i (00:07:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 17 0
+\i (00:07:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:07:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:22) QtSignal CVDColorTable CVDColorButton1:7 clicked
+\i (00:07:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 17 0
+\i (00:07:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:07:23) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:24) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:07:29) prepopup -3.4124 4.0897
+\i (00:07:30) done 
+\i (00:07:30) generaledit 
+\i (00:07:31) pick grid 4.8604 1.8137
+\t (00:07:31) last pick:  4.9000 1.8000
+\i (00:07:32) pick grid 1.0569 0.4472
+\t (00:07:32) last pick:  1.1000 0.4000
+\i (00:07:32) pick grid 0.5782 0.4603
+\t (00:07:32) last pick:  0.6000 0.5000
+\i (00:07:33) pick grid 1.4660 1.3742
+\t (00:07:33) last pick:  1.5000 1.4000
+\i (00:07:35) setwindow form.mini
+\i (00:07:35) FORM mini subclass ASSEMBLY_TOP 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) add line 
+\i (00:07:41) setwindow form.mini
+\i (00:07:41) FORM mini line_width 0.1000 
+\i (00:07:44) FORM mini subclass SILKSCREEN_TOP 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) pick grid -2.0198 2.0052
+\t (00:07:49) last pick:  -2.0000 2.0000
+\i (00:07:54) pick grid 2.0491 -2.0115
+\t (00:07:54) last pick:  2.0000 -2.0000
+\i (00:07:58) pick grid -1.9502 -1.9898
+\t (00:07:58) last pick:  -2.0000 -2.0000
+\i (00:08:00) pick grid -1.9589 1.9530
+\t (00:08:00) last pick:  -2.0000 2.0000
+\i (00:08:00) prepopup -3.0643 1.2828
+\i (00:08:01) done 
+\i (00:08:01) generaledit 
+\i (00:08:02) pick grid -3.0512 1.3263
+\t (00:08:02) last pick:  -3.1000 1.3000
+\i (00:08:02) prepopup -3.0512 1.3263
+\i (00:08:03) save 
+\i (00:08:05) fillin yes 
+\t (00:08:06) Symbol 'ap1010aen.psm' created.
+\i (00:08:06) generaledit 
+\i (00:08:07) pick grid -4.6396 2.7319
+\t (00:08:07) last pick:  -4.6000 2.7000
+\i (00:08:10) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:08:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AP1010AEN
+\i (00:08:12) opencd D:/design/PCB/orcad/projects/pnp-feeder/feeder_driver.brd 
+\t (00:08:12) Opening existing design...
+\i (00:08:12) trapsize 398
+\i (00:08:12) trapsize 404
+\i (00:08:12) trapsize 398
+\i (00:08:12) trapsize 404
+\t (00:08:12)     Journal end - Mon May 28 16:04:04 2018

@@ -1,0 +1,21 @@
+\t (00:09:09) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:09:09)     Journal start - Wed May 30 12:07:33 2018
+\t (00:09:09)         Host=G-PC User=ottor Pid=10164 CPUs=4
+\t (00:09:09) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:09:09) 
+\d (00:09:09) Design opened: D:/design/PCB/orcad/components/capacitors/1206/C1206WAVE.dra
+\i (00:09:09) generaledit 
+\i (00:09:11) create symbol 
+\i (00:09:13) fillin "c1206wave.psm"
+\t (00:09:13) Creating package symbol 'D:/design/PCB/orcad/components/capacitors/1206/c1206wave.psm'.
+\t (00:09:13) Starting Create symbol...
+\i (00:09:13) generaledit 
+\i (00:09:14) open 
+\i (00:09:18) fillin "D:\design\PCB\orcad\components\connectors\jst-sh\BM02B-SRSS-TB.dra"
+\i (00:09:18) cd "D:\design\PCB\orcad\components\connectors\jst-sh"
+\t (00:09:18) Opening existing design...
+\i (00:09:18) trapsize 267
+\i (00:09:18) trapsize 271
+\i (00:09:18) trapsize 267
+\i (00:09:18) trapsize 274
+\t (00:09:18)     Journal end - Wed May 30 12:07:43 2018

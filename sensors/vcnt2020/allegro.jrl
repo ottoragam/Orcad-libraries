@@ -1,0 +1,987 @@
+\t (00:00:25) allegro 17.2 S040 Windows SPB 64-bit Edition
+\t (00:00:25)     Journal start - Fri Jun 08 13:52:34 2018
+\t (00:00:25)         Host=G-PC User=ottor Pid=4344 CPUs=4
+\t (00:00:25) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:25) 
+\t (00:00:25) Starting new design...
+\i (00:00:25) trapsize 7828
+\i (00:00:25) trapsize 7938
+\i (00:00:25) trapsize 7828
+\i (00:00:26) trapsize 12365
+\i (00:00:26) trapsize 12365
+\i (00:00:26) trapsize 12048
+\i (00:00:26) generaledit 
+\i (00:00:28) prmed 
+\i (00:00:29) setwindow form.prmedit
+\i (00:00:29) FORM prmedit display_grid YES 
+\i (00:00:30) FORM prmedit view_grids_button  
+\t (00:00:30) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:32) setwindow form.grid
+\i (00:00:32) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:00:33) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:00:35) FORM grid all_etch all_etch_x_grids 0.1 
+\i (00:00:36) FORM grid all_etch all_etch_y_grids 0.1 
+\i (00:00:37) FORM grid done  
+\t (00:00:37) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:00:39) setwindow form.prmedit
+\i (00:00:39) FORM prmedit text  
+\i (00:00:42) FORM prmedit text_block 2 
+\i (00:00:42) FORM prmedit text_setup_button  
+\i (00:00:45) setwindow form.textblock
+\i (00:00:45) FORM textblock 1 photoplot_width 0.1000 
+\i (00:00:46) FORM textblock 2 photoplot_width 0.1000 
+\i (00:00:47) FORM textblock 3 photoplot_width 0.1000 
+\i (00:00:47) FORM textblock done  
+\i (00:00:48) setwindow form.prmedit
+\i (00:00:48) FORM prmedit display  
+\i (00:00:49) FORM prmedit design  
+\i (00:00:51) FORM prmedit done  
+\i (00:00:51) setwindow pcb
+\i (00:00:51) trapsize 12365
+\i (00:00:51) trapsize 12700
+\i (00:00:51) trapsize 12365
+\i (00:00:51) trapsize 12048
+\i (00:00:52) generaledit 
+\i (00:00:53) color192 
+\i (00:00:53) generaledit 
+\i (00:00:57) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:00:59) QtSignal CVDColorTable CVDColorButton5:1 clicked
+\i (00:01:01) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:01) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 12 0
+\i (00:01:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 12 0
+\i (00:01:01) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:01) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 13 0
+\i (00:01:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:01:01) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:01:04) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 15 0
+\i (00:01:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:01:04) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:04) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 14 0
+\i (00:01:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:01:04) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Embedded geometry"
+\i (00:01:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Comp value"
+\i (00:01:07) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 6 0
+\i (00:01:07) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:01:07) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:07) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 7 0
+\i (00:01:07) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:08) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:08) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Dev type"
+\i (00:01:09) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 7 0
+\i (00:01:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:09) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:09) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 6 0
+\i (00:01:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:01:09) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:10) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Ref des"
+\i (00:01:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 7 0
+\i (00:01:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:11) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 6 0
+\i (00:01:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:01:11) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:12) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "User part"
+\i (00:01:12) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components Tolerance
+\i (00:01:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:13) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 7 0
+\i (00:01:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:14) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 6 0
+\i (00:01:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:01:14) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:14) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "User part"
+\i (00:01:15) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 6 0
+\i (00:01:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:01:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:15) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 7 0
+\i (00:01:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:16) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 13.9717 6.7429
+\t (00:01:17) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:01:17) trapsize 6024
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in -4.2208 -2.8955
+\t (00:01:18) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:01:18) trapsize 3012
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in -5.3653 -2.6545
+\t (00:01:18) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:01:18) trapsize 1506
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in -5.4255 -2.6243
+\i (00:01:18) trapsize 753
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 1.2461 2.5112
+\i (00:01:18) trapsize 376
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in -0.6514 0.5157
+\i (00:01:19) trapsize 188
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in -0.7869 -0.3691
+\i (00:01:19) trapsize 94
+\i (00:01:26) add pin 
+\i (00:01:27) setwindow form.mini
+\i (00:01:27) FORM mini pad_browse  
+\i (00:01:29) fillin "menu_cancel"
+\i (00:01:35) setwindow pcb
+\i (00:01:35) enved 
+\i (00:01:39) setwindow form.prfedit
+\i (00:01:39) FORM prfedit treelist  Signoise Paths 
+\i (00:01:39) FORM prfedit treelist  Library Paths 
+\i (00:01:43) FORM prfedit padpath  
+\i (00:01:53) FORM prfedit psmpath  
+\i (00:02:00) FORM prfedit steppath  
+\i (00:02:06) FORM prfedit done  
+\i (00:02:09) setwindow pcb
+\i (00:02:09) add pin 
+\t (00:02:09) Exiting from Add Pin.
+\i (00:02:10) setwindow form.mini
+\i (00:02:10) FORM mini pad_browse  
+\t (00:02:14) No valid name selected.
+\i (00:02:16) fillin "Vcnt2020-1"
+\t (00:02:16) Using 'VCNT2020-1.pad'.
+\i (00:02:18) setwindow pcb
+\i (00:02:18) trapsize 136
+\i (00:02:19) trapsize 245
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 0.8130 4.3329
+\i (00:02:20) trapsize 489
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 0.8130 4.3330
+\i (00:02:20) trapsize 979
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 0.8131 4.3329
+\i (00:02:20) trapsize 1957
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 0.9305 3.7459
+\t (00:02:20) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:02:20) trapsize 3914
+\i (00:02:20) zoom in 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom in -2.2007 -1.1859
+\t (00:02:20) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:02:20) trapsize 1957
+\i (00:02:20) zoom in 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom in -0.4785 -4.2389
+\i (00:02:20) trapsize 979
+\i (00:02:21) zoom in 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom in -1.5745 3.0218
+\i (00:02:21) trapsize 489
+\i (00:02:21) zoom in 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom in 0.1380 0.6342
+\i (00:02:21) trapsize 245
+\i (00:02:22) zoom in 1 
+\i (00:02:22) setwindow pcb
+\i (00:02:22) zoom in -0.5127 0.9327
+\i (00:02:22) trapsize 122
+\i (00:03:23) pick l -0.63 0.625 
+\t (00:03:23) last pick:  0.0000 0.6250
+\t (00:03:23) Using 'VCNT2020-1.pad'.
+\i (00:03:27) trapsize 47
+\i (00:03:27) zoom out 1 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom out -1.1873 -1.2537
+\i (00:03:27) trapsize 94
+\i (00:03:27) zoom out 1 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom out -1.1797 -1.2593
+\i (00:03:27) trapsize 188
+\i (00:03:27) zoom out 1 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom out -0.6715 -1.6471
+\i (00:03:27) trapsize 376
+\i (00:03:27) zoom out 1 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom out -0.1821 -1.8504
+\i (00:03:27) trapsize 753
+\i (00:03:28) zoom in 1 
+\i (00:03:28) setwindow pcb
+\i (00:03:28) zoom in 0.3451 3.1646
+\i (00:03:28) trapsize 376
+\i (00:03:28) zoom in 1 
+\i (00:03:28) setwindow pcb
+\i (00:03:28) zoom in 0.3375 3.1571
+\i (00:03:28) trapsize 188
+\i (00:03:28) prepopup 0.1192 1.3386
+\i (00:03:29) oops 
+\t (00:03:29) Using 'VCNT2020-1.pad'.
+\i (00:03:43) pick y -0.63 0.625 
+\t (00:03:43) last pick:  -0.6300 0.6250
+\t (00:03:43) Using 'VCNT2020-1.pad'.
+\i (00:03:45) prepopup -1.1271 0.2129
+\i (00:03:46) done 
+\t (00:03:46) Exiting from Add Pin.
+\i (00:03:46) generaledit 
+\i (00:03:48) add pin 
+\t (00:03:48) Using 'VCNT2020-1.pad'.
+\i (00:03:49) setwindow form.mini
+\i (00:03:49) FORM mini pad_browse  
+\t (00:03:52) No valid name selected.
+\i (00:03:54) fillin "Vcnt2020-2"
+\t (00:03:54) Using 'VCNT2020-2.pad'.
+\i (00:04:59) setwindow pcb
+\i (00:04:59) pick y -0.63 -0.725 
+\t (00:04:59) last pick:  -0.6300 -0.7250
+\t (00:04:59) Using 'VCNT2020-2.pad'.
+\i (00:05:00) prepopup 0.7328 1.9147
+\i (00:05:01) done 
+\t (00:05:01) Exiting from Add Pin.
+\i (00:05:01) generaledit 
+\i (00:05:02) add pin 
+\t (00:05:02) Using 'VCNT2020-2.pad'.
+\i (00:05:37) prepopup 0.1417 5.1112
+\i (00:05:39) Esc 
+\w (00:05:39) WARNING(SPMHA1-314): Illegal event.
+\i (00:05:51) pick y 0.57 0.625 
+\t (00:05:51) last pick:  0.5700 0.6250
+\t (00:05:51) Using 'VCNT2020-2.pad'.
+\i (00:05:52) prepopup 0.9851 1.2972
+\i (00:05:53) done 
+\t (00:05:53) Exiting from Add Pin.
+\i (00:05:53) generaledit 
+\i (00:06:19) pick y 0.57 -0.725 
+\t (00:06:19) last pick:  0.5700 -0.7250
+\i (00:06:23) add pin 
+\t (00:06:23) Using 'VCNT2020-2.pad'.
+\i (00:06:24) setwindow form.mini
+\i (00:06:24) FORM mini pad_browse  
+\t (00:06:28) No valid name selected.
+\i (00:06:30) fillin "Vcnt2020-4"
+\t (00:06:30) Using 'VCNT2020-4.pad'.
+\i (00:06:37) setwindow pcb
+\i (00:06:37) pick y 0.57 -0.725 
+\t (00:06:37) last pick:  0.5700 -0.7250
+\t (00:06:37) Using 'VCNT2020-4.pad'.
+\i (00:06:38) prepopup 0.6839 2.3552
+\i (00:06:38) done 
+\t (00:06:38) Exiting from Add Pin.
+\i (00:06:38) generaledit 
+\i (00:06:41) pick grid 0.6086 0.3748
+\t (00:06:41) last pick:  0.6000 0.4000
+\i (00:06:42) prepopup 0.6086 0.3823
+\i (00:06:44) pop dyn_option_select @:@Delete 
+\i (00:06:44) delete 
+\i (00:06:44) generaledit 
+\i (00:06:52) undo 
+\i (00:06:52) trapsize 188
+\i (00:06:52) generaledit 
+\i (00:07:00) pick grid 1.7042 0.6158
+\t (00:07:00) last pick:  1.7000 0.6000
+\i (00:07:09) redo 
+\i (00:07:09) trapsize 188
+\i (00:07:09) replay C:/Users/ottor/AppData/Local/Temp/#Taaaads04344.tmp 
+\i (00:07:09) scriptmode +i 
+\i (00:07:09) delete 
+\i (00:07:09) trapsize 188
+\i (00:07:09) generaledit 
+\i (00:07:24) add pin 
+\t (00:07:24) Using 'VCNT2020-4.pad'.
+\i (00:07:25) setwindow form.mini
+\i (00:07:25) FORM mini pad_browse  
+\t (00:07:28) No valid name selected.
+\i (00:07:30) fillin "Vcnt2020-3"
+\t (00:07:31) Using 'VCNT2020-3.pad'.
+\i (00:07:36) setwindow pcb
+\i (00:07:36) pick y 0.57 0.625 
+\t (00:07:36) last pick:  0.5700 0.6250
+\t (00:07:36) Using 'VCNT2020-3.pad'.
+\i (00:07:38) prepopup 0.3714 1.6060
+\i (00:07:38) done 
+\t (00:07:38) Exiting from Add Pin.
+\i (00:07:39) generaledit 
+\i (00:07:42) pick grid -0.7731 1.2295
+\t (00:07:42) last pick:  -0.8000 1.2000
+\i (00:07:43) prepopup -0.7731 1.2295
+\i (00:07:49) auto_pin_renumber 
+\w (00:07:49) We cannot detect a pin array that supports one of our renumber methods.
+\i (00:07:49) generaledit 
+\i (00:07:53) prepopup -1.6391 1.5947
+\i (00:07:59) auto_pin_renumber 
+\w (00:07:59) We cannot detect a pin array that supports one of our renumber methods.
+\i (00:07:59) generaledit 
+\i (00:08:07) pick grid -0.8974 1.2671
+\t (00:08:07) last pick:  -0.9000 1.3000
+\i (00:08:07) prepopup -0.8974 1.2671
+\i (00:08:08) pop dyn_option_select '@:@Text edit' 
+\i (00:08:08) text edit 
+\i (00:08:10) setwindow form.textedit
+\i (00:08:10) FORM textedit str 4 
+\i (00:08:10) FORM textedit done  
+\i (00:08:10) setwindow pcb
+\i (00:08:10) pick 0.0000 0.0000
+\t (00:08:10) Pick text to edit.
+\i (00:08:10) setwindow pcb
+\i (00:08:10) generaledit 
+\i (00:08:12) pick grid -0.1218 2.1971
+\t (00:08:12) last pick:  -0.1000 2.2000
+\i (00:08:25) add line 
+\i (00:08:27) setwindow form.mini
+\i (00:08:27) FORM mini line_width 0.1000 
+\i (00:08:28) FORM mini lock_direction 90 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) pick y -1.25 1 
+\t (00:08:42) last pick:  -1.2500 1.0000
+\i (00:08:54) pick y 1.25 1 
+\t (00:08:54) last pick:  1.2500 1.0000
+\i (00:09:07) pick y -1.25 -1 
+\t (00:09:07) last pick:  -1.2500 -1.0000
+\i (00:09:15) pick y -1.25 1 
+\t (00:09:15) last pick:  -1.2500 1.0000
+\i (00:09:16) prepopup -1.5826 1.4516
+\i (00:09:17) done 
+\i (00:09:17) generaledit 
+\i (00:09:18) pick grid -1.2400 0.6986
+\t (00:09:18) last pick:  -1.2000 0.7000
+\i (00:09:19) pick grid tgl 0.0213 1.0073
+\t (00:09:19) last pick:  0.0000 1.0000
+\i (00:09:20) pick grid tgl 1.2901 0.7250
+\t (00:09:20) last pick:  1.3000 0.7000
+\i (00:09:21) pick grid tgl 1.1733 -1.0069
+\t (00:09:21) last pick:  1.2000 -1.0000
+\i (00:09:22) prepopup 1.2336 -0.9580
+\i (00:09:23) pop dyn_option_select @:@Copy 
+\i (00:09:23) copy 
+\i (00:09:24) pick grid 1.0566 2.2498
+\t (00:09:24) last pick:  1.1000 2.2000
+\i (00:09:25) prepopup 1.2411 2.3175
+\i (00:09:26) done 
+\i (00:09:26) generaledit 
+\i (00:09:27) drag_start grid -2.0156 4.5502
+\i (00:09:27) drag_stop 2.0581 1.8243
+\i (00:09:28) prepopup 1.1244 2.7016
+\i (00:09:31) pop dyn_option_select 'Change to layer@:@ASSEMBLY_BOTTOM' 
+\i (00:09:31) change layer 
+\t (00:09:31) No DRC errors detected.
+\t (00:09:31) Changed 4 items out of 4 items found.
+\i (00:09:31) generaledit 
+\i (00:09:32) prepopup 0.5747 2.2084
+\i (00:09:32) pop dyn_option_select @:@Move 
+\i (00:09:32) move 
+\t (00:09:32) last pick:  0.6000 2.2000
+\t (00:09:32) Element has no origin, using pick.
+\t (00:09:32) Element has no origin, using pick.
+\t (00:09:32) Element has no origin, using pick.
+\t (00:09:32) Element has no origin, using pick.
+\t (00:09:32) Pick new location for the element(s).
+\i (00:09:34) pick grid 0.6575 -0.9505
+\t (00:09:34) last pick:  0.7000 -1.0000
+\i (00:09:34) generaledit 
+\i (00:09:35) prepopup 0.7404 1.8432
+\i (00:10:19) prepopup -2.0683 1.0450
+\i (00:10:20) pop dyn_option_select @:@Copy 
+\i (00:10:20) copy 
+\i (00:10:21) prepopup -1.5939 1.7114
+\i (00:10:24) pick grid -0.9049 1.6474
+\t (00:10:24) last pick:  -0.9000 1.6000
+\i (00:10:24) prepopup -1.0781 1.8356
+\i (00:10:25) done 
+\i (00:10:25) generaledit 
+\i (00:10:26) prepopup -1.1383 1.8959
+\i (00:10:37) Esc 
+\i (00:10:38) prepopup -1.6353 1.6624
+\i (00:10:39) undo 
+\i (00:10:39) trapsize 188
+\i (00:10:40) generaledit 
+\i (00:10:40) add line 
+\i (00:10:42) setwindow form.mini
+\i (00:10:42) FORM mini subclass SILKSCREEN_TOP 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom out 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom out 0.1907 0.2845
+\i (00:10:44) trapsize 376
+\i (00:10:44) zoom out 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom out 0.1982 0.2844
+\i (00:10:44) trapsize 753
+\i (00:10:44) zoom in 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom in 0.1229 -2.0198
+\i (00:10:44) trapsize 376
+\i (00:10:44) zoom in 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom in 0.1230 -2.0047
+\i (00:10:44) trapsize 188
+\i (00:10:47) zoom in 1 
+\i (00:10:47) setwindow pcb
+\i (00:10:47) zoom in -1.3039 1.0525
+\i (00:10:47) trapsize 94
+\i (00:10:51) pick grid -1.2022 1.2069
+\t (00:10:51) last pick:  -1.2000 1.2000
+\i (00:10:52) zoom out 1 
+\i (00:10:52) setwindow pcb
+\i (00:10:52) zoom out -1.1947 -0.4064
+\i (00:10:52) trapsize 188
+\i (00:10:52) zoom out 1 
+\i (00:10:52) setwindow pcb
+\i (00:10:52) zoom out -1.1946 -0.4064
+\i (00:10:52) trapsize 376
+\i (00:10:53) zoom in 1 
+\i (00:10:53) setwindow pcb
+\i (00:10:53) zoom in -1.1118 -0.7452
+\i (00:10:53) trapsize 188
+\i (00:10:53) zoom in 1 
+\i (00:10:53) setwindow pcb
+\i (00:10:53) zoom in -1.1758 -0.8958
+\i (00:10:53) trapsize 94
+\i (00:10:55) pick grid -1.2209 -1.3514
+\t (00:10:55) last pick:  -1.2000 -1.4000
+\i (00:10:58) pick grid 1.0908 1.1505
+\t (00:10:58) last pick:  1.1000 1.2000
+\i (00:11:00) pick grid -1.1513 1.2408
+\t (00:11:00) last pick:  -1.2000 1.2000
+\i (00:11:00) prepopup -1.0383 1.3726
+\i (00:11:01) done 
+\i (00:11:01) generaledit 
+\i (00:11:04) save 
+\e (00:11:04) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:11:04) generaledit 
+\i (00:11:06) setwindow text
+\i (00:11:06) close
+\i (00:11:11) add text 
+\t (00:11:11) Pick text location.
+\i (00:11:15) setwindow form.mini
+\i (00:11:15) FORM mini class REF DES 
+\i (00:11:17) FORM mini subclass SILKSCREEN_TOP 
+\i (00:11:35) FORM mini subclass ASSEMBLY_TOP 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom out 1 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom out 0.2587 1.6098
+\i (00:11:36) trapsize 188
+\i (00:11:36) zoom out 1 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom out 2.4198 1.2559
+\i (00:11:36) trapsize 376
+\i (00:11:37) zoom in 1 
+\i (00:11:37) setwindow pcb
+\i (00:11:37) zoom in 1.4635 2.3252
+\i (00:11:37) trapsize 188
+\i (00:11:43) zoom in 1 
+\i (00:11:43) setwindow pcb
+\i (00:11:43) zoom in -0.7089 1.7755
+\i (00:11:43) trapsize 94
+\i (00:11:44) zoom out 1 
+\i (00:11:44) setwindow pcb
+\i (00:11:44) zoom out -0.1535 1.5007
+\i (00:11:44) trapsize 188
+\i (00:11:44) zoom in 1 
+\i (00:11:44) setwindow pcb
+\i (00:11:44) zoom in 0.4527 1.5760
+\i (00:11:44) trapsize 94
+\i (00:11:51) pick grid -1.1418 1.8866
+\t (00:11:51) last pick:  -1.1000 1.9000
+\t (00:11:51) Enter text string.
+\i (00:11:54) setwindow pcb
+\i (00:11:54) pick -1.1000 1.9000
+\i (00:11:57) setwindow form.mini
+\i (00:11:57) FORM mini subclass SILKSCREEN_TOP 
+\i (00:11:58) setwindow pcb
+\i (00:11:58) pick grid -0.7408 1.6269
+\t (00:11:58) last pick:  -0.7000 1.6000
+\t (00:11:58) Enter text string.
+\i (00:12:01) setwindow pcb
+\i (00:12:01) pick -0.7000 1.6000
+\i (00:12:01) Esc 
+\i (00:12:01) Esc 
+\i (00:12:03) pick grid -0.9385 2.0485
+\t (00:12:03) last pick:  -0.9000 2.0000
+\t (00:12:03) Refdes of this subclass is already defined, change subclass.
+\i (00:12:03) prepopup -1.1455 1.7229
+\i (00:12:04) done 
+\i (00:12:04) generaledit 
+\i (00:12:04) drag_start grid -0.9441 2.0278
+\i (00:12:04) move 
+\t (00:12:04) last pick:  -1.1000 1.9000
+\t (00:12:04) Pick new location for the element(s).
+\i (00:12:07) drag_stop grid -1.3150 1.4499
+\i (00:12:07) generaledit 
+\i (00:12:08) pick grid -0.3963 1.6231
+\t (00:12:08) last pick:  -0.4000 1.6000
+\i (00:12:09) pick grid -0.0273 2.2010
+\t (00:12:09) last pick:  0.0000 2.2000
+\i (00:12:10) drag_start grid -0.3493 2.0297
+\i (00:12:10) move 
+\t (00:12:10) last pick:  -0.7000 1.6000
+\t (00:12:10) Pick new location for the element(s).
+\i (00:12:12) drag_stop grid -1.2867 1.5798
+\i (00:12:13) generaledit 
+\i (00:12:13) pick grid -1.7235 1.8302
+\t (00:12:13) last pick:  -1.7000 1.8000
+\i (00:12:13) prepopup -1.7235 1.8320
+\i (00:12:14) zoom out 1 
+\i (00:12:14) setwindow pcb
+\i (00:12:14) zoom out -1.4449 1.6570
+\i (00:12:14) trapsize 188
+\i (00:12:15) zoom out 1 
+\i (00:12:15) setwindow pcb
+\i (00:12:15) zoom out -1.2001 1.4536
+\i (00:12:15) trapsize 376
+\i (00:12:15) zoom in 1 
+\i (00:12:15) setwindow pcb
+\i (00:12:15) zoom in -0.8838 1.4010
+\i (00:12:15) trapsize 188
+\i (00:12:16) save 
+\i (00:12:17) fillin yes 
+\e (00:12:17) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:12:18) generaledit 
+\i (00:12:23) setwindow text
+\i (00:12:23) close
+\i (00:12:25) pick grid -0.8461 1.1901
+\t (00:12:25) last pick:  -0.8000 1.2000
+\i (00:12:25) pick grid dbl -0.8461 1.1901
+\t (00:12:25) last pick:  -0.8000 1.2000
+\i (00:12:26) pick grid -0.8311 1.2692
+\t (00:12:26) last pick:  -0.8000 1.3000
+\i (00:12:26) prepopup -0.8311 1.2692
+\i (00:12:28) pop dyn_option_select '@:@Text edit' 
+\i (00:12:28) text edit 
+\i (00:12:29) setwindow form.textedit
+\i (00:12:29) FORM textedit str 3 
+\i (00:12:29) FORM textedit done  
+\i (00:12:29) setwindow pcb
+\i (00:12:29) pick 0.0000 0.0000
+\t (00:12:29) Pick text to edit.
+\i (00:12:29) setwindow pcb
+\i (00:12:29) generaledit 
+\i (00:12:31) save 
+\i (00:12:32) fillin yes 
+\t (00:12:33) Symbol 'vcnt2020.psm' created.
+\i (00:12:33) generaledit 
+\i (00:13:11) step pkg map 
+\i (00:13:39) setwindow form.pkgmap3d
+\i (00:13:39) FORM pkgmap3d done  
+\i (00:13:39) setwindow pcb
+\i (00:13:39) generaledit 
+\i (00:13:41) step pkg map 
+\i (00:13:43) setwindow form.pkgmap3d
+\i (00:13:43) FORM pkgmap3d stplist 'vcnt2020 v1.step' 
+\i (00:13:48) FORM pkgmap3d view_orientation Top 
+\i (00:13:58) FORM pkgmap3d done  
+\i (00:13:58) setwindow pcb
+\i (00:13:58) generaledit 
+\i (00:14:02) zoom in 1 
+\i (00:14:02) setwindow pcb
+\i (00:14:02) zoom in 1.2924 0.6743
+\i (00:14:02) trapsize 94
+\i (00:14:06) drag_start grid 1.1061 1.0998
+\i (00:14:06) slide 
+\t (00:14:06) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:14:06) No valid items selected for the current operation, exiting.
+\i (00:14:06) generaledit 
+\i (00:14:06) drag_stop grid 1.3941 1.0904
+\i (00:14:07) prepopup 1.1042 1.1054
+\i (00:14:08) pop dyn_option_select @:@Move 
+\i (00:14:08) move 
+\t (00:14:08) last pick:  1.1000 1.1000
+\t (00:14:08) last pick:  1.1000 1.1000
+\t (00:14:08) Element has no origin, using pick.
+\t (00:14:08) Pick new location for the element(s).
+\i (00:14:21) pick grid 1.2510 1.1374
+\t (00:14:21) last pick:  1.3000 1.1000
+\i (00:14:21) generaledit 
+\i (00:14:23) prepopup -1.2000 -1.2439
+\i (00:14:24) pop dyn_option_select @:@Move 
+\i (00:14:24) move 
+\t (00:14:24) last pick:  -1.2000 -1.2000
+\t (00:14:24) last pick:  -1.2000 -1.2000
+\t (00:14:24) Element has no origin, using pick.
+\t (00:14:24) Pick new location for the element(s).
+\i (00:14:26) pick grid -1.3506 -1.2006
+\t (00:14:26) last pick:  -1.4000 -1.2000
+\i (00:14:26) generaledit 
+\i (00:14:26) prepopup -1.0550 -1.4529
+\i (00:14:28) pop dyn_option_select @:@Move 
+\i (00:14:28) move 
+\t (00:14:28) last pick:  -1.1000 -1.5000
+\t (00:14:28) last pick:  -1.1000 -1.5000
+\t (00:14:28) Element has no origin, using pick.
+\t (00:14:28) Pick new location for the element(s).
+\i (00:14:28) pick grid -1.2960 -1.5489
+\t (00:14:28) last pick:  -1.3000 -1.5000
+\i (00:14:28) generaledit 
+\i (00:14:29) prepopup -1.1209 0.8663
+\i (00:14:31) prepopup 0.0142 1.2240
+\i (00:14:32) pop dyn_option_select @:@Move 
+\i (00:14:32) move 
+\t (00:14:32) last pick:  0.0000 1.2000
+\t (00:14:32) last pick:  0.0000 1.2000
+\t (00:14:32) Element has no origin, using pick.
+\t (00:14:32) Pick new location for the element(s).
+\i (00:14:33) pick grid -0.2399 1.2504
+\t (00:14:33) last pick:  -0.2000 1.3000
+\i (00:14:33) generaledit 
+\i (00:14:34) prepopup 0.8011 1.2842
+\i (00:14:35) prepopup 0.9009 1.3050
+\i (00:14:37) pop dyn_option_select '@:@Move vertex' 
+\i (00:14:37) vertex 
+\t (00:14:37) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:14:37) No valid items selected for the current operation, exiting.
+\i (00:14:37) generaledit 
+\i (00:14:38) prepopup 0.9404 1.2937
+\i (00:14:39) prepopup 0.9084 1.2899
+\i (00:14:40) pop dyn_option_select '@:@Move vertex' 
+\i (00:14:40) vertex 
+\t (00:14:40) Selected item not valid for current operation, ignored: Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:14:40) No valid items selected for the current operation, exiting.
+\i (00:14:40) generaledit 
+\i (00:14:41) pick grid 0.8783 1.3125
+\t (00:14:41) last pick:  0.9000 1.3000
+\i (00:14:41) prepopup 0.8971 1.3031
+\i (00:14:42) pop dyn_option_select '@:@Move vertex' 
+\i (00:14:42) vertex 
+\t (00:14:42) last pick:  0.9000 1.3000
+\i (00:14:46) prepopup 0.8538 1.3012
+\i (00:14:47) cancel 
+\i (00:14:47) generaledit 
+\i (00:14:48) prepopup 0.4679 1.3087
+\i (00:14:49) pop dyn_option_select @:@Move 
+\i (00:14:49) move 
+\t (00:14:49) last pick:  0.5000 1.3000
+\t (00:14:49) last pick:  0.5000 1.3000
+\t (00:14:49) Element has no origin, using pick.
+\t (00:14:49) Pick new location for the element(s).
+\i (00:14:50) pick grid 0.4510 1.1920
+\t (00:14:50) last pick:  0.5000 1.2000
+\i (00:14:50) generaledit 
+\i (00:14:51) pick grid 0.9122 1.2146
+\t (00:14:51) last pick:  0.9000 1.2000
+\i (00:14:51) prepopup 0.9122 1.2146
+\i (00:14:52) pop dyn_option_select '@:@Move vertex' 
+\i (00:14:52) vertex 
+\t (00:14:52) last pick:  0.9000 1.2000
+\i (00:14:53) pick grid 1.2849 1.2485
+\t (00:14:53) last pick:  1.3000 1.2000
+\t (00:14:53) No DRC errors detected.
+\i (00:14:53) generaledit 
+\i (00:14:54) pick grid 0.9122 -1.4152
+\t (00:14:54) last pick:  0.9000 -1.4000
+\i (00:14:54) prepopup 0.9122 -1.4134
+\i (00:14:55) pop dyn_option_select '@:@Move vertex' 
+\i (00:14:55) vertex 
+\t (00:14:55) last pick:  0.9000 -1.4000
+\i (00:14:56) pick grid 1.3000 -1.4491
+\t (00:14:56) last pick:  1.3000 -1.4000
+\t (00:14:56) No DRC errors detected.
+\i (00:14:56) generaledit 
+\i (00:14:56) prepopup 1.6991 -0.7507
+\i (00:14:57) pick grid 1.7141 -0.1690
+\t (00:14:57) last pick:  1.7000 -0.2000
+\i (00:14:59) zoom out 1 
+\i (00:14:59) setwindow pcb
+\i (00:14:59) zoom out -0.8442 0.8550
+\i (00:14:59) trapsize 188
+\i (00:15:01) zoom in 1 
+\i (00:15:01) setwindow pcb
+\i (00:15:01) zoom in -1.3863 1.1977
+\i (00:15:01) trapsize 94
+\i (00:15:01) zoom out 1 
+\i (00:15:01) setwindow pcb
+\i (00:15:01) zoom out -1.3881 1.2467
+\i (00:15:01) trapsize 188
+\i (00:15:02) zoom in 1 
+\i (00:15:02) setwindow pcb
+\i (00:15:02) zoom in -1.4258 1.2392
+\i (00:15:02) trapsize 94
+\i (00:15:03) zoom out 1 
+\i (00:15:03) setwindow pcb
+\i (00:15:03) zoom out -1.4220 1.2392
+\i (00:15:03) trapsize 188
+\i (00:15:03) zoom out 1 
+\i (00:15:03) setwindow pcb
+\i (00:15:03) zoom out -1.4220 1.2393
+\i (00:15:03) trapsize 376
+\i (00:15:04) zoom in 1 
+\i (00:15:04) setwindow pcb
+\i (00:15:04) zoom in -1.0982 1.1865
+\i (00:15:04) trapsize 188
+\i (00:15:14) pick grid -1.3467 1.2091
+\t (00:15:14) last pick:  -1.3000 1.2000
+\i (00:15:14) prepopup -1.3467 1.2091
+\i (00:15:19) pop dyn_option_select '@:@Move vertex' 
+\i (00:15:19) vertex 
+\t (00:15:19) last pick:  -1.4000 1.2000
+\i (00:15:21) pick grid -1.5538 1.2166
+\t (00:15:21) last pick:  -1.6000 1.2000
+\t (00:15:21) No DRC errors detected.
+\i (00:15:21) generaledit 
+\i (00:15:22) pick grid -1.4182 1.1037
+\t (00:15:22) last pick:  -1.4000 1.1000
+\i (00:15:22) prepopup -1.4182 1.1037
+\i (00:15:25) Esc 
+\i (00:15:25) prepopup -1.3919 1.1827
+\i (00:15:27) pick grid dbl -1.3919 1.1827
+\t (00:15:27) last pick:  -1.4000 1.2000
+\i (00:15:27) prepopup -1.3956 1.1903
+\i (00:15:28) pop dyn_option_select '@:@Move vertex' 
+\i (00:15:28) vertex 
+\t (00:15:28) last pick:  -1.4000 1.2000
+\i (00:15:29) pick grid -1.4069 1.4500
+\t (00:15:29) last pick:  -1.4000 1.5000
+\t (00:15:29) No DRC errors detected.
+\i (00:15:29) generaledit 
+\i (00:15:30) prepopup -1.3881 1.5028
+\i (00:15:31) pop dyn_option_select '@:@Move vertex' 
+\i (00:15:31) vertex 
+\t (00:15:31) Selected item not valid for current operation, ignored: Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\t (00:15:31) No valid items selected for the current operation, exiting.
+\i (00:15:31) generaledit 
+\i (00:15:31) pick grid -1.4145 1.5065
+\t (00:15:31) last pick:  -1.4000 1.5000
+\i (00:15:32) prepopup -1.4145 1.5065
+\i (00:15:33) pop dyn_option_select '@:@Move vertex' 
+\i (00:15:33) vertex 
+\t (00:15:33) last pick:  -1.4000 1.5000
+\i (00:15:34) pick grid -1.4295 1.4463
+\t (00:15:34) last pick:  -1.4000 1.4000
+\t (00:15:34) No DRC errors detected.
+\i (00:15:34) generaledit 
+\i (00:15:35) save 
+\i (00:15:36) fillin yes 
+\t (00:15:37) Symbol 'vcnt2020.psm' created.
+\i (00:15:37) generaledit 
+\i (00:15:37) prepopup 2.4145 0.5728
+\i (00:15:41) create symbol 
+\i (00:15:43) fillin "vcnt2020.psm"
+\t (00:15:43) Creating package symbol 'D:/design/PCB/orcad/components/sensors/vcnt2020/vcnt2020.psm'.
+\t (00:15:43) Starting Create symbol...
+\i (00:15:43) generaledit 
+\i (00:15:45) 3d 
+\i (00:15:46) generaledit 
+\i (00:15:47) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:15:48) pick grid 3.9732 0.9644
+\t (00:15:48) last pick:  4.0000 1.0000
+\i (00:15:49) 3d 
+\i (00:15:50) generaledit 
+\i (00:15:52) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:15:55) step pkg map 
+\i (00:15:58) setwindow form.pkgmap3d
+\i (00:15:58) FORM pkgmap3d stplist 'tqfp100 v2.step' 
+\i (00:15:59) FORM pkgmap3d stplist 'vcnt2020 v1.step' 
+\i (00:15:59) FORM pkgmap3d stplist 'vcnt2020 v1.step' 
+\i (00:16:01) FORM pkgmap3d save_current  
+\i (00:16:01) FORM pkgmap3d done  
+\i (00:16:01) setwindow pcb
+\i (00:16:01) generaledit 
+\i (00:16:03) 3d 
+\i (00:16:03) generaledit 
+\i (00:16:11) QtSignal pcb3dViewerCamMenu Top triggered
+\i (00:16:17) QtSignal pcb3dViewerCamMenu Bottom triggered
+\i (00:16:18) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 996 460 996 515 0 0 120
+\i (00:16:18) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 999 463 999 518 0 0 120
+\i (00:16:18) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1041 487 1041 542 0 0 -120
+\i (00:16:18) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1050 494 1050 549 0 0 -120
+\i (00:16:18) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1057 498 1057 553 0 0 -120
+\i (00:16:18) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1061 501 1061 556 0 0 -120
+\i (00:16:19) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:16:21) save 
+\i (00:16:22) fillin yes 
+\t (00:16:23) Symbol 'vcnt2020.psm' created.
+\i (00:16:23) generaledit 
+\i (00:17:10) xname_flush 
+\i (00:18:09) xname_flush 
+\e (00:18:10) Command not found: xdehilite
+\i (00:18:10) xname_flush 
+\i (00:18:10) done 
+\i (00:18:10) generaledit 
+\i (00:18:23) xname_flush 
+\e (00:18:25) Command not found: xdehilite
+\i (00:18:25) xname_flush 
+\i (00:18:25) done 
+\i (00:18:25) generaledit 
+\i (00:18:28) xname_flush 
+\e (00:18:32) Command not found: xdehilite
+\i (00:18:32) xname_flush 
+\i (00:18:32) done 
+\i (00:18:32) generaledit 
+\i (00:18:33) xname_flush 
+\e (00:18:34) Command not found: xdehilite
+\i (00:18:34) xname_flush 
+\i (00:18:34) done 
+\i (00:18:34) generaledit 
+\i (00:18:39) xname_flush 
+\e (00:18:42) Command not found: xdehilite
+\i (00:18:42) xname_flush 
+\i (00:18:42) done 
+\i (00:18:42) generaledit 
+\i (00:18:44) xname_flush 
+\i (00:18:46) xname_flush 
+\e (00:18:49) Command not found: xdehilite
+\i (00:18:49) xname_flush 
+\i (00:18:49) done 
+\i (00:18:49) generaledit 
+\i (00:18:49) xname_flush 
+\e (00:18:51) Command not found: xdehilite
+\i (00:18:51) xname_flush 
+\i (00:18:51) done 
+\i (00:18:51) generaledit 
+\i (00:18:51) xname_flush 
+\e (00:18:53) Command not found: xdehilite
+\i (00:18:53) xname_flush 
+\i (00:18:53) done 
+\i (00:18:53) generaledit 
+\i (00:18:53) xname_flush 
+\e (00:18:54) Command not found: xdehilite
+\i (00:18:54) xname_flush 
+\i (00:18:54) done 
+\i (00:18:54) generaledit 
+\i (00:18:54) xname_flush 
+\e (00:18:56) Command not found: xdehilite
+\i (00:18:56) xname_flush 
+\i (00:18:56) done 
+\i (00:18:56) generaledit 
+\i (00:18:57) xname_flush 
+\e (00:18:59) Command not found: xdehilite
+\i (00:18:59) xname_flush 
+\i (00:18:59) done 
+\i (00:19:00) generaledit 
+\i (00:19:00) xname_flush 
+\e (00:19:01) Command not found: xdehilite
+\i (00:19:01) xname_flush 
+\i (00:19:01) done 
+\i (00:19:01) generaledit 
+\i (00:19:01) xname_flush 
+\e (00:19:02) Command not found: xdehilite
+\i (00:19:02) xname_flush 
+\i (00:19:02) done 
+\i (00:19:02) generaledit 
+\i (00:19:02) xname_flush 
+\e (00:19:03) Command not found: xdehilite
+\i (00:19:03) xname_flush 
+\i (00:19:03) done 
+\i (00:19:03) generaledit 
+\i (00:19:04) xname_flush 
+\e (00:19:11) Command not found: xdehilite
+\i (00:19:11) xname_flush 
+\i (00:19:11) done 
+\i (00:19:11) generaledit 
+\i (00:19:12) xname_flush 
+\e (00:19:12) Command not found: xdehilite
+\i (00:19:12) xname_flush 
+\i (00:19:12) done 
+\i (00:19:12) generaledit 
+\i (00:19:13) xname_flush 
+\e (00:19:14) Command not found: xdehilite
+\i (00:19:14) xname_flush 
+\i (00:19:14) done 
+\i (00:19:14) generaledit 
+\i (00:19:14) xname_flush 
+\e (00:19:18) Command not found: xdehilite
+\i (00:19:18) xname_flush 
+\i (00:19:18) done 
+\i (00:19:18) generaledit 
+\e (00:19:30) Command not found: xdehilite
+\i (00:19:30) xname_flush 
+\i (00:19:30) done 
+\i (00:19:30) generaledit 
+\i (00:19:31) xname_flush 
+\e (00:19:32) Command not found: xdehilite
+\i (00:19:32) xname_flush 
+\i (00:19:32) done 
+\i (00:19:32) generaledit 
+\i (00:19:37) xname_flush 
+\e (00:19:38) Command not found: xdehilite
+\i (00:19:38) xname_flush 
+\i (00:19:38) done 
+\i (00:19:38) generaledit 
+\i (00:19:41) xname_flush 
+\e (00:19:44) Command not found: xdehilite
+\i (00:19:44) xname_flush 
+\i (00:19:44) done 
+\i (00:19:44) generaledit 
+\i (00:19:48) xname_flush 
+\e (00:19:48) Command not found: xdehilite
+\i (00:19:48) xname_flush 
+\i (00:19:48) done 
+\i (00:19:48) generaledit 
+\i (00:20:14) xname_flush 
+\e (00:20:15) Command not found: xdehilite
+\i (00:20:15) xname_flush 
+\i (00:20:15) done 
+\i (00:20:15) generaledit 
+\i (00:20:16) xname_flush 
+\e (00:20:16) Command not found: xdehilite
+\i (00:20:16) xname_flush 
+\i (00:20:16) done 
+\i (00:20:17) generaledit 
+\i (00:20:17) xname_flush 
+\e (00:20:18) Command not found: xdehilite
+\i (00:20:18) xname_flush 
+\i (00:20:18) done 
+\i (00:20:18) generaledit 
+\e (00:20:56) Command not found: xdehilite
+\i (00:20:56) xname_flush 
+\i (00:20:56) done 
+\i (00:20:56) generaledit 
+\i (00:21:04) xname_flush 
+\e (00:21:05) Command not found: xdehilite
+\i (00:21:05) xname_flush 
+\i (00:21:05) done 
+\i (00:21:05) generaledit 
+\i (00:21:05) xname_flush 
+\e (00:21:06) Command not found: xdehilite
+\i (00:21:06) xname_flush 
+\i (00:21:06) done 
+\i (00:21:06) generaledit 
+\i (00:21:06) xname_flush 
+\e (00:21:07) Command not found: xdehilite
+\i (00:21:07) xname_flush 
+\i (00:21:07) done 
+\i (00:21:07) generaledit 
+\i (00:21:08) xname_flush 
+\e (00:21:12) Command not found: xdehilite
+\i (00:21:12) xname_flush 
+\i (00:21:12) done 
+\i (00:21:12) generaledit 
+\e (00:21:14) Command not found: xdehilite
+\i (00:21:14) xname_flush 
+\i (00:21:14) done 
+\i (00:21:14) generaledit 
+\e (00:21:20) Command not found: xdehilite
+\i (00:21:20) xname_flush 
+\i (00:21:20) done 
+\i (00:21:20) generaledit 
+\e (00:21:21) Command not found: xdehilite
+\i (00:21:21) xname_flush 
+\i (00:21:21) done 
+\i (00:21:21) generaledit 
+\i (00:21:35) xname_flush 
+\e (00:21:38) Command not found: xdehilite
+\i (00:21:38) xname_flush 
+\i (00:21:38) done 
+\i (00:21:38) generaledit 
+\i (00:21:39) xname_flush 
+\e (00:21:40) Command not found: xdehilite
+\i (00:21:40) xname_flush 
+\i (00:21:40) done 
+\i (00:21:40) generaledit 
+\i (00:21:50) xname_flush 
+\e (00:21:57) Command not found: xdehilite
+\i (00:21:57) xname_flush 
+\i (00:21:57) done 
+\i (00:21:57) generaledit 
+\i (00:21:58) xname_flush 
+\e (00:22:01) Command not found: xdehilite
+\i (00:22:01) xname_flush 
+\i (00:22:01) done 
+\i (00:22:01) generaledit 
+\i (00:22:23) exit 
+\t (00:22:23)     Journal end - Fri Jun 08 14:14:32 2018

@@ -1,0 +1,77 @@
+\t (00:03:09) allegro 17.2 S040 Windows SPB 64-bit Edition
+\t (00:03:09)     Journal start - Thu Jun 07 13:50:10 2018
+\t (00:03:09)         Host=G-PC User=ottor Pid=15216 CPUs=4
+\t (00:03:09) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:03:09) 
+\d (00:03:09) Design opened: D:/design/PCB/orcad/components/connectors/usb/micro-usb-smd.dra
+\i (00:03:09) trapsize 532
+\i (00:03:10) zoom in 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom in 0.1373 1.4762
+\i (00:03:10) trapsize 266
+\i (00:03:16) setwindow form.mini
+\i (00:03:16) FORM mini subclass BOTTOM 
+\i (00:03:18) FORM mini subcolor 1 
+\i (00:03:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:03:20) FORM mini subcolor 1 
+\i (00:03:22) FORM mini subcolor 0 
+\i (00:03:23) FORM mini subcolor 1 
+\i (00:03:24) FORM mini subclass ASSEMBLY_BOTTOM 
+\i (00:03:24) FORM mini subcolor 1 
+\i (00:03:26) FORM mini subclass SILKSCREEN_TOP 
+\i (00:03:27) FORM mini subcolor 1 
+\i (00:03:28) setwindow pcb
+\i (00:03:28) zoom out 1 
+\i (00:03:28) setwindow pcb
+\i (00:03:28) zoom out 6.7670 3.1084
+\i (00:03:28) trapsize 532
+\i (00:03:28) zoom in 1 
+\i (00:03:28) setwindow pcb
+\i (00:03:28) zoom in 5.7781 1.3221
+\i (00:03:28) trapsize 266
+\i (00:03:30) roam start
+\i (00:03:30) roam x -16
+\i (00:03:30) roam y 112
+\i (00:03:30) roam y 112
+\i (00:03:30) roam y 112
+\i (00:03:30) roam y 96
+\i (00:03:30) roam y -32
+\i (00:03:30) roam y -48
+\i (00:03:30) roam x 16
+\i (00:03:30) roam y -32
+\i (00:03:30) roam y -32
+\i (00:03:30) roam end
+\i (00:07:27) replace padstack 
+\i (00:07:29) setwindow form.mini
+\i (00:07:29) FORM mini oldname_browse  
+\i (00:07:31) fillin "Signal"
+\i (00:07:33) FORM mini newname_browse  
+\t (00:07:36) No valid name selected.
+\t (00:07:42) No valid name selected.
+\i (00:07:44) fillin "Usb-signal"
+\i (00:07:48) FORM mini replace  
+\t (00:07:48) Done, updated padstack.
+\t (00:07:48) 5 out of 5 old padstack SIGNAL were replaced with new padstack USB-SIGNAL.
+\i (00:07:50) setwindow pcb
+\i (00:07:50) prepopup -2.8103 3.9416
+\i (00:07:50) done 
+\t (00:07:50) Performing DRC...
+\t (00:07:50) No DRC errors detected.
+\i (00:07:54) save 
+\i (00:07:55) fillin yes 
+\t (00:07:55) Symbol 'micro-usb-smd.psm' created.
+\i (00:07:58) create symbol 
+\i (00:07:59) fillin "micro-usb-smd.psm"
+\t (00:07:59) Creating package symbol 'D:/design/PCB/orcad/components/connectors/usb/micro-usb-smd.psm'.
+\t (00:07:59) Starting Create symbol...
+\i (00:08:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:08:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged micro-usb-smd
+\i (00:08:03) opencd D:/design/PCB/orcad/projects/pnp-feeder/feeder_driver.brd 
+\t (00:08:03) Opening existing design...
+\i (00:08:03) trapsize 91
+\i (00:08:03) trapsize 92
+\i (00:08:03) trapsize 91
+\i (00:08:03) trapsize 91
+\i (00:08:03) trapsize 85
+\i (00:08:03) trapsize 92
+\t (00:08:04)     Journal end - Thu Jun 07 13:55:04 2018

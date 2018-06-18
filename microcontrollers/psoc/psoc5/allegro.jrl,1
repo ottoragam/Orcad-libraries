@@ -1,0 +1,25 @@
+\t (00:09:36) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:09:36)     Journal start - Wed May 30 12:08:01 2018
+\t (00:09:36)         Host=G-PC User=ottor Pid=10164 CPUs=4
+\t (00:09:36) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:09:36) 
+\d (00:09:36) Design opened: D:/design/PCB/orcad/components/microcontrollers/psoc/psoc5/100tqfp.dra
+\i (00:09:37) generaledit 
+\i (00:09:38) save_as 
+\i (00:09:39) fillin "menu_cancel"
+\i (00:09:39) generaledit 
+\i (00:09:39) Esc 
+\i (00:09:40) create symbol 
+\i (00:09:42) fillin "100tqfp.psm"
+\t (00:09:42) Creating package symbol 'D:/design/PCB/orcad/components/microcontrollers/psoc/psoc5/100tqfp.psm'.
+\t (00:09:42) Starting Create symbol...
+\i (00:09:43) generaledit 
+\i (00:09:43) open 
+\i (00:09:50) fillin "D:\design\PCB\orcad\components\motor drivers\AP1010AEN\AP1010AEN.dra"
+\i (00:09:50) cd "D:\design\PCB\orcad\components\motor drivers\AP1010AEN"
+\t (00:09:50) Opening existing design...
+\i (00:09:50) trapsize 218
+\i (00:09:50) trapsize 221
+\i (00:09:50) trapsize 218
+\i (00:09:50) trapsize 224
+\t (00:09:50)     Journal end - Wed May 30 12:08:15 2018

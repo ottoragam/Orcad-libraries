@@ -1,0 +1,42 @@
+\t (00:11:04) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:11:04)     Journal start - Wed May 30 12:09:29 2018
+\t (00:11:04)         Host=G-PC User=ottor Pid=10164 CPUs=4
+\t (00:11:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:11:04) 
+\d (00:11:04) Design opened: D:/design/PCB/orcad/components/led/0603/LED0603WAVE.dra
+\i (00:11:05) generaledit 
+\i (00:11:06) refresh padstack 
+\i (00:11:07) setwindow form.rf_pad
+\i (00:11:07) FORM rf_pad execute  
+\t (00:11:07) Starting Refreshing padstacks...
+\t (00:11:08) Opening existing design...
+\i (00:11:08) setwindow pcb
+\i (00:11:08) trapsize 78
+\i (00:11:08) trapsize 79
+\i (00:11:08) trapsize 78
+\i (00:11:08) trapsize 80
+\i (00:11:10) setwindow form.rf_pad
+\i (00:11:10) FORM rf_pad cancel  
+\i (00:11:10) setwindow pcb
+\i (00:11:10) generaledit 
+\i (00:11:11) create symbol 
+\i (00:11:13) fillin "led0603wave.psm"
+\t (00:11:13) Creating package symbol 'D:/design/PCB/orcad/components/led/0603/led0603wave.psm'.
+\t (00:11:13) Starting Create symbol...
+\i (00:11:13) generaledit 
+\i (00:11:14) save 
+\i (00:11:15) fillin yes 
+\t (00:11:15) Symbol 'led0603wave.psm' created.
+\i (00:11:15) generaledit 
+\i (00:11:16) new 
+\i (00:11:17) newdrawfillin "menu_cancel"
+\i (00:11:17) generaledit 
+\i (00:11:17) open 
+\i (00:11:20) fillin "D:\design\PCB\orcad\components\connectors\jst-sh\BM02B-SRSS-TB.dra"
+\i (00:11:20) cd "D:\design\PCB\orcad\components\connectors\jst-sh"
+\t (00:11:20) Opening existing design...
+\i (00:11:21) trapsize 267
+\i (00:11:21) trapsize 271
+\i (00:11:21) trapsize 267
+\i (00:11:21) trapsize 274
+\t (00:11:21)     Journal end - Wed May 30 12:09:45 2018

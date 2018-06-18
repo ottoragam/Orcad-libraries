@@ -1,0 +1,31 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\header-100.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\header-100.olb")
+      (Select "Design Resources" ".\header-100.olb" "HEADER-100-5"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 860"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 312 2843 312 1326"))
+      (Path
+         "D:\DESIGN\PCB\ORCAD\COMPONENTS\CONNECTORS\HEADER100\HEADER-100.OLB")
+      (Package "HEADER-100-5")
+      (PartType "1")))
+  (MPSSessionName "ottor"))

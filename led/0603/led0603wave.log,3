@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LED0603WAVE.dra                               )
+(    Software Version : 17.2S039                                      )
+(    Date/Time        : Wed May 30 12:09:38 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/design/PCB/orcad/components/led/0603
+    Name      = led0603wave.psm
+    User      = ottor
+    Machine   = G-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

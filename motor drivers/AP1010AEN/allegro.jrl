@@ -1,0 +1,44 @@
+\t (00:09:50) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:09:50)     Journal start - Wed May 30 12:08:15 2018
+\t (00:09:50)         Host=G-PC User=ottor Pid=10164 CPUs=4
+\t (00:09:50) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:09:50) 
+\d (00:09:50) Design opened: D:/design/PCB/orcad/components/motor drivers/AP1010AEN/AP1010AEN.dra
+\i (00:09:51) generaledit 
+\i (00:09:53) create symbol 
+\i (00:09:55) fillin "ap1010aen.psm"
+\t (00:09:55) Creating package symbol 'D:/design/PCB/orcad/components/motor drivers/AP1010AEN/ap1010aen.psm'.
+\t (00:09:55) Starting Create symbol...
+\i (00:09:55) generaledit 
+\i (00:10:08) refresh padstack 
+\i (00:10:10) setwindow form.rf_pad
+\i (00:10:10) FORM rf_pad execute  
+\t (00:10:10) Starting Refreshing padstacks...
+\t (00:10:10) Opening existing design...
+\i (00:10:10) setwindow pcb
+\i (00:10:10) trapsize 224
+\i (00:10:10) trapsize 227
+\i (00:10:10) trapsize 224
+\i (00:10:10) trapsize 229
+\i (00:10:13) setwindow form.rf_pad
+\i (00:10:13) FORM rf_pad cancel  
+\i (00:10:13) setwindow pcb
+\i (00:10:13) generaledit 
+\i (00:10:15) create symbol 
+\i (00:10:17) fillin "ap1010aen.psm"
+\t (00:10:17) Creating package symbol 'D:/design/PCB/orcad/components/motor drivers/AP1010AEN/ap1010aen.psm'.
+\t (00:10:17) Starting Create symbol...
+\i (00:10:17) generaledit 
+\i (00:10:18) save 
+\i (00:10:19) fillin yes 
+\t (00:10:20) Symbol 'ap1010aen.psm' created.
+\i (00:10:20) generaledit 
+\i (00:10:20) open 
+\i (00:10:25) fillin "D:\design\PCB\orcad\components\resistors\0603\R0603WAVE.dra"
+\i (00:10:25) cd "D:\design\PCB\orcad\components\resistors\0603"
+\t (00:10:25) Opening existing design...
+\i (00:10:25) trapsize 172
+\i (00:10:25) trapsize 175
+\i (00:10:25) trapsize 172
+\i (00:10:25) trapsize 177
+\t (00:10:25)     Journal end - Wed May 30 12:08:50 2018

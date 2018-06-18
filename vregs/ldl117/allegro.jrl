@@ -1,0 +1,39 @@
+\t (00:23:46) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:23:46)     Journal start - Sat Jun 02 16:18:39 2018
+\t (00:23:46)         Host=G-PC User=ottor Pid=6368 CPUs=4
+\t (00:23:46) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession ottor D:\design\PCB\orcad\projects\pnp-feeder\feeder_driver.brd
+\t (00:23:46) 
+\d (00:23:46) Design opened: D:/design/PCB/orcad/components/vregs/ldl117/sot223.dra
+\t (00:23:47) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:23:47) generaledit 
+\i (00:23:51) step pkg map 
+\i (00:23:54) setwindow form.pkgmap3d
+\i (00:23:54) FORM pkgmap3d stplist 'sot223 v2.step' 
+\i (00:24:50) FORM pkgmap3d save_current  
+\i (00:24:51) FORM pkgmap3d done  
+\i (00:24:52) setwindow pcb
+\i (00:24:52) generaledit 
+\i (00:24:53) 3d 
+\i (00:24:53) generaledit 
+\i (00:24:57) QtSignal pcb3dViewerCamMenu Top triggered
+\i (00:24:57) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 888 741 888 796 0 0 120
+\i (00:24:57) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 904 719 904 774 0 0 120
+\i (00:24:58) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 936 617 936 672 0 0 -120
+\i (00:24:58) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 936 617 936 672 0 0 -120
+\i (00:24:58) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 936 616 936 671 0 0 -120
+\i (00:24:58) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 936 616 936 671 0 0 -120
+\i (00:25:00) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:25:02) save 
+\i (00:25:03) fillin yes 
+\t (00:25:03) Symbol 'sot223.psm' created.
+\i (00:25:03) generaledit 
+\i (00:25:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:25:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged sot223
+\i (00:25:07) opencd D:/design/PCB/orcad/projects/pnp-feeder/feeder_driver.brd 
+\t (00:25:08) Opening existing design...
+\i (00:25:08) trapsize 1522
+\i (00:25:08) trapsize 1546
+\i (00:25:08) trapsize 1522
+\t (00:25:08) Grids are drawn 4.0000, 4.0000 apart for enhanced viewability.
+\i (00:25:08) trapsize 1546
+\t (00:25:08)     Journal end - Sat Jun 02 16:20:00 2018

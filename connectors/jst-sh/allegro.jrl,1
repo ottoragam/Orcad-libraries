@@ -1,0 +1,76 @@
+\t (00:00:00) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Jun 02 16:46:00 2018
+\t (00:00:00)         Host=G-PC User=ottor Pid=2568 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged BM04B-SRSS-TB
+\d (00:00:02) Design opened: D:/design/PCB/orcad/components/connectors/jst-sh/BM04B-SRSS-TB.dra
+\t (00:00:02) Grids are drawn 102.4000, 102.4000 apart for enhanced viewability.
+\i (00:00:02) trapsize 152
+\i (00:00:02) trapsize 154
+\i (00:00:02) trapsize 152
+\i (00:00:02) trapsize 152
+\i (00:00:31) setwindow form.mini
+\i (00:00:31) FORM mini subclass PIN_NUMBER 
+\i (00:00:32) FORM mini subcolor 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) text edit 
+\i (00:01:28) pick grid -3.0044 -0.9668
+\t (00:01:28) last pick:  -3.0000 -1.0000
+\i (00:01:30) setwindow pcb
+\i (00:01:30) pick grid -2.1804 -1.2921
+\t (00:01:30) last pick:  -2.2000 -1.3000
+\i (00:01:30) setwindow pcb
+\i (00:01:30) pick -3.0044 -0.9668
+\i (00:01:32) setwindow pcb
+\i (00:01:32) pick grid -1.0584 -1.2800
+\t (00:01:32) last pick:  -1.1000 -1.3000
+\i (00:01:32) setwindow pcb
+\i (00:01:32) pick -2.1804 -1.2921
+\t (00:01:32) Pick text to edit.
+\i (00:01:33) setwindow pcb
+\i (00:01:33) pick grid 0.0454 -1.3347
+\t (00:01:33) last pick:  0.0000 -1.3000
+\i (00:01:33) setwindow pcb
+\i (00:01:33) pick -1.0584 -1.2800
+\t (00:01:33) Pick text to edit.
+\i (00:01:35) setwindow pcb
+\i (00:01:35) pick grid -3.6612 1.0036
+\t (00:01:35) last pick:  -3.7000 1.0000
+\i (00:01:35) setwindow pcb
+\i (00:01:35) pick 0.0454 -1.3347
+\t (00:01:35) Pick text to edit.
+\i (00:01:37) setwindow pcb
+\i (00:01:37) pick grid 0.6474 1.1982
+\t (00:01:37) last pick:  0.6000 1.2000
+\i (00:01:37) setwindow pcb
+\i (00:01:37) pick -3.6612 1.0036
+\t (00:01:37) Pick text to edit.
+\i (00:01:39) setwindow pcb
+\i (00:01:39) pick 0.6474 1.1982
+\t (00:01:39) Pick text to edit.
+\i (00:01:39) setwindow pcb
+\i (00:01:39) prepopup -0.7999 0.2008
+\i (00:01:40) done 
+\i (00:01:41) save 
+\i (00:01:42) fillin yes 
+\t (00:01:43) Symbol 'bm04b-srss-tb.psm' created.
+\i (00:01:43) open 
+\i (00:01:45) fillin "BM02B-SRSS-TB.dra"
+\t (00:01:45) Opening existing design...
+\i (00:01:45) trapsize 281
+\i (00:01:45) trapsize 286
+\i (00:01:45) trapsize 281
+\t (00:01:45) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:01:45) trapsize 289
+\d (00:01:45) Design opened: D:/design/PCB/orcad/components/connectors/jst-sh/BM02B-SRSS-TB.dra
+\i (00:01:46) trapsize 1303675
+\i (00:01:49) setwindow form.mini
+\i (00:01:49) FORM mini subclass PIN_NUMBER 
+\i (00:01:50) FORM mini subcolor 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:01:56) exit 
+\t (00:01:56)     Journal end - Sat Jun 02 16:47:56 2018

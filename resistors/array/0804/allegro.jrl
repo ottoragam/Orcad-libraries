@@ -1,0 +1,173 @@
+\t (00:20:58) allegro 17.2 S040 Windows SPB 64-bit Edition
+\t (00:20:58)     Journal start - Thu Jun 07 14:07:59 2018
+\t (00:20:58)         Host=G-PC User=ottor Pid=15216 CPUs=4
+\t (00:20:58) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:20:58) 
+\d (00:20:58) Design opened: D:/design/PCB/orcad/components/resistors/array/0804/0804.dra
+\i (00:20:58) trapsize 63
+\i (00:20:59) etchedit 
+\i (00:21:01) 3d 
+\i (00:21:01) etchedit 
+\i (00:21:08) QtSignal pcb3dViewerCamMenu Top triggered
+\i (00:21:13) QtSignal pcb3dViewerCamMenu Bottom triggered
+\i (00:21:23) trapsize 91
+\i (00:21:23) trapsize 164
+\i (00:21:26) zoom out 1 
+\i (00:21:26) setwindow pcb
+\i (00:21:26) zoom out 0.7449 2.4378
+\i (00:21:26) trapsize 329
+\i (00:21:26) zoom out 1 
+\i (00:21:26) setwindow pcb
+\i (00:21:26) zoom out 0.7712 2.3787
+\i (00:21:26) trapsize 657
+\i (00:21:26) zoom out 1 
+\i (00:21:26) setwindow pcb
+\i (00:21:26) zoom out 0.8107 2.3656
+\t (00:21:26) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:21:26) trapsize 1314
+\i (00:21:26) zoom in 1 
+\i (00:21:26) setwindow pcb
+\i (00:21:26) zoom in -1.9228 -0.4470
+\i (00:21:26) trapsize 657
+\i (00:21:27) zoom in 1 
+\i (00:21:27) setwindow pcb
+\i (00:21:27) zoom in -1.9359 -0.4996
+\i (00:21:27) trapsize 329
+\i (00:21:37) zoom in 1 
+\i (00:21:37) setwindow pcb
+\i (00:21:37) zoom in 0.5349 0.4336
+\i (00:21:37) trapsize 164
+\i (00:21:37) zoom in 1 
+\i (00:21:37) setwindow pcb
+\i (00:21:37) zoom in 0.4856 0.4598
+\i (00:21:37) trapsize 82
+\i (00:21:38) zoom in 1 
+\i (00:21:38) setwindow pcb
+\i (00:21:38) zoom in 0.2589 0.5157
+\i (00:21:38) trapsize 41
+\i (00:22:07) zoom out 1 
+\i (00:22:07) setwindow pcb
+\i (00:22:07) zoom out 0.0922 0.4846
+\i (00:22:07) trapsize 82
+\i (00:22:07) zoom out 1 
+\i (00:22:07) setwindow pcb
+\i (00:22:07) zoom out 0.0725 0.4714
+\i (00:22:07) trapsize 164
+\i (00:22:30) zoom in 1 
+\i (00:22:30) setwindow pcb
+\i (00:22:30) zoom in -0.3580 0.8032
+\i (00:22:30) trapsize 82
+\i (00:22:56) zoom out 1 
+\i (00:22:56) setwindow pcb
+\i (00:22:56) zoom out -0.6717 0.6800
+\i (00:22:56) trapsize 164
+\i (00:22:57) zoom in 1 
+\i (00:22:57) setwindow pcb
+\i (00:22:57) zoom in -0.2151 0.4138
+\i (00:22:57) trapsize 82
+\i (00:22:59) zoom out 1 
+\i (00:22:59) setwindow pcb
+\i (00:22:59) zoom out 0.6392 0.6865
+\i (00:22:59) trapsize 164
+\i (00:23:12) zoom in 1 
+\i (00:23:12) setwindow pcb
+\i (00:23:12) zoom in -0.8361 0.4960
+\i (00:23:12) trapsize 82
+\i (00:23:16) move 
+\t (00:23:16) Select element(s) to move.
+\i (00:23:22) pick grid -0.8311 0.4320
+\t (00:23:22) last pick:  -0.8000 0.4000
+\t (00:23:22) last pick:  -0.7500 0.3500
+\t (00:23:22) Pick new location for the element(s).
+\i (00:23:24) trapsize 32
+\i (00:23:25) zoom out 1 
+\i (00:23:25) setwindow pcb
+\i (00:23:25) zoom out -1.1669 -0.5112
+\i (00:23:25) trapsize 63
+\i (00:23:25) zoom out 1 
+\i (00:23:25) setwindow pcb
+\i (00:23:25) zoom out -1.1669 -0.5111
+\i (00:23:25) trapsize 126
+\i (00:23:25) zoom out 1 
+\i (00:23:25) setwindow pcb
+\i (00:23:25) zoom out -1.1669 -0.5111
+\i (00:23:25) trapsize 253
+\i (00:23:25) zoom out 1 
+\i (00:23:25) setwindow pcb
+\i (00:23:25) zoom out -1.1669 -0.5112
+\i (00:23:25) trapsize 506
+\i (00:23:25) zoom out 1 
+\i (00:23:25) setwindow pcb
+\i (00:23:25) zoom out -1.1670 -0.5112
+\i (00:23:25) trapsize 1011
+\i (00:23:25) zoom out 1 
+\i (00:23:25) setwindow pcb
+\i (00:23:25) zoom out -1.1669 -0.5111
+\i (00:23:25) trapsize 2023
+\i (00:23:25) zoom in 1 
+\i (00:23:25) setwindow pcb
+\i (00:23:25) zoom in 0.3300 2.2804
+\i (00:23:25) trapsize 1011
+\i (00:23:25) zoom in 1 
+\i (00:23:25) setwindow pcb
+\i (00:23:25) zoom in 0.1278 2.0984
+\i (00:23:25) trapsize 506
+\i (00:23:26) zoom in 1 
+\i (00:23:26) setwindow pcb
+\i (00:23:26) zoom in -0.2666 0.6622
+\i (00:23:26) trapsize 253
+\i (00:23:26) zoom in 1 
+\i (00:23:26) setwindow pcb
+\i (00:23:26) zoom in -0.3273 0.5358
+\i (00:23:26) trapsize 126
+\i (00:23:32) pick -0.8 
+\t (00:23:32) last pick:  -0.8000 0.3500
+\i (00:23:35) pick grid -0.8937 -0.3239
+\t (00:23:35) last pick:  -0.9000 -0.3000
+\t (00:23:35) last pick:  -0.7500 -0.3500
+\t (00:23:35) Pick new location for the element(s).
+\i (00:23:39) pick -0.8 
+\t (00:23:39) last pick:  -0.8000 -0.3500
+\i (00:23:42) pick grid 0.6664 0.3360
+\t (00:23:42) last pick:  0.7000 0.3000
+\t (00:23:42) last pick:  0.7500 0.3500
+\t (00:23:42) Pick new location for the element(s).
+\i (00:23:46) pick 0.8 
+\t (00:23:46) last pick:  0.8000 0.3500
+\i (00:23:47) pick grid 0.7777 -0.3644
+\t (00:23:47) last pick:  0.8000 -0.4000
+\t (00:23:47) last pick:  0.7500 -0.3500
+\t (00:23:47) Pick new location for the element(s).
+\i (00:23:50) pick 0.8 
+\t (00:23:50) last pick:  0.8000 -0.3500
+\i (00:23:52) prepopup 1.3669 -0.0028
+\i (00:23:53) done 
+\i (00:23:53) etchedit 
+\i (00:23:55) save 
+\i (00:23:56) fillin yes 
+\t (00:23:56) Symbol '0804.psm' created.
+\i (00:23:56) etchedit 
+\i (00:23:59) 3d 
+\i (00:23:59) etchedit 
+\i (00:24:05) QtSignal pcb3dViewerCamMenu Isometric triggered
+\i (00:24:10) QtSignal pcb3dViewerCamMenu Top triggered
+\i (00:24:25) QtSignal pcb3dViewerCamMenu Front triggered
+\i (00:24:31) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:24:35) create symbol 
+\i (00:24:37) fillin "0804.psm"
+\t (00:24:37) Creating package symbol 'D:/design/PCB/orcad/components/resistors/array/0804/0804.psm'.
+\t (00:24:37) Starting Create symbol...
+\i (00:24:37) etchedit 
+\i (00:24:39) save 
+\i (00:24:40) fillin yes 
+\t (00:24:40) Symbol '0804.psm' created.
+\i (00:24:40) etchedit 
+\i (00:24:41) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:24:42) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 0804
+\i (00:24:42) opencd D:/design/PCB/orcad/projects/pnp-feeder/feeder_driver.brd 
+\t (00:24:42) Opening existing design...
+\i (00:24:42) trapsize 87
+\i (00:24:42) trapsize 89
+\i (00:24:42) trapsize 87
+\i (00:24:42) trapsize 87
+\t (00:24:43)     Journal end - Thu Jun 07 14:11:43 2018

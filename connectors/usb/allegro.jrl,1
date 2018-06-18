@@ -1,0 +1,40 @@
+\t (00:00:38) allegro 17.2 S040 Windows SPB 64-bit Edition
+\t (00:00:38)     Journal start - Thu Jun 07 13:47:39 2018
+\t (00:00:38)         Host=G-PC User=ottor Pid=15216 CPUs=4
+\t (00:00:38) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:38) 
+\d (00:00:38) Design opened: D:/design/PCB/orcad/components/connectors/usb/micro-usb-smd.dra
+\i (00:00:38) trapsize 475
+\i (00:00:42) create symbol 
+\i (00:00:43) fillin "micro-usb-smd.psm"
+\t (00:00:43) Creating package symbol 'D:/design/PCB/orcad/components/connectors/usb/micro-usb-smd.psm'.
+\t (00:00:43) Starting Create symbol...
+\i (00:00:46) step pkg map 
+\i (00:00:48) setwindow form.pkgmap3d
+\i (00:00:48) FORM pkgmap3d done  
+\i (00:00:49) setwindow pcb
+\i (00:00:49) 3d 
+\i (00:00:53) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:00:55) save 
+\i (00:00:56) fillin yes 
+\t (00:00:56) Symbol 'micro-usb-smd.psm' created.
+\i (00:00:58) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:01:00) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged micro-usb-smd
+\i (00:01:00) opencd D:/design/PCB/orcad/components/connectors/usb/micro-usb-smd.dra 
+\t (00:01:00) Opening existing design...
+\i (00:01:00) trapsize 475
+\i (00:01:00) trapsize 482
+\i (00:01:00) trapsize 475
+\i (00:01:01) trapsize 487
+\d (00:01:01) Design opened: D:/design/PCB/orcad/components/connectors/usb/micro-usb-smd.dra
+\i (00:01:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:01:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged micro-usb-smd
+\i (00:01:03) opencd D:/design/PCB/orcad/projects/pnp-feeder/feeder_driver.brd 
+\t (00:01:03) Opening existing design...
+\i (00:01:03) trapsize 1454
+\i (00:01:03) trapsize 1477
+\i (00:01:03) trapsize 1454
+\i (00:01:03) trapsize 1454
+\i (00:01:03) trapsize 1352
+\i (00:01:03) trapsize 1477
+\t (00:01:03)     Journal end - Thu Jun 07 13:48:04 2018

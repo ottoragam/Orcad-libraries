@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : BM04B-SRSS-TB.dra                             )
+(    Software Version : 17.2S039                                      )
+(    Date/Time        : Sat Jun 02 16:08:16 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/design/PCB/orcad/components/connectors/jst-sh
+    Name      = bm04b-srss-tb.psm
+    User      = ottor
+    Machine   = G-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

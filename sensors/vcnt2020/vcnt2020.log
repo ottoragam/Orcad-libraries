@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : vcnt2020.dra                                  )
+(    Software Version : 17.2S040                                      )
+(    Date/Time        : Fri Jun 08 14:08:31 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/design/PCB/orcad/components/sensors/vcnt2020
+    Name      = vcnt2020.psm
+    User      = ottor
+    Machine   = G-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

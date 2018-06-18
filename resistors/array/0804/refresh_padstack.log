@@ -1,0 +1,67 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : 0804.dra                                      )
+(    Software Version : 17.2S039                                      )
+(    Date/Time        : Sat Jun 02 13:09:38 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Jun 02 13:09:38 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'D:/design/PCB/orcad/components/resistors/array/0804/0804.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/design/PCB/orcad/components/microcontrollers/psoc/psoc5 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           D:/design/PCB/orcad/components/ 
+           D:/design/PCB/orcad/components/motor drivers/AP1010AEN/ 
+           D:/design/PCB/orcad/components/led/0603/ 
+           D:/design/PCB/orcad/components/capacitors/0603/ 
+           D:/design/PCB/orcad/components/resistors/0603/ 
+           D:/design/PCB/orcad/components/capacitors/1206/ 
+           D:/design/PCB/orcad/components/connectors/jst-sh/ 
+           D:/design/PCB/orcad/components/misc/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           D:/design/PCB/orcad/components/microcontrollers/psoc/psoc5 
+           D:/design/PCB/orcad/components/motor drivers/AP1010AEN/ 
+           D:/design/PCB/orcad/components/led/0603/ 
+           D:/design/PCB/orcad/components/capacitors/0603/ 
+           D:/design/PCB/orcad/components/resistors/0603/ 
+           D:/design/PCB/orcad/components/capacitors/1206/ 
+           D:/design/PCB/orcad/components/connectors/jst-sh/ 
+           D:/design/PCB/orcad/components/misc/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'0804-1'  pad stack refresh starting.
+
+     '0804-1'  pad stack refreshed successfully.
+     
+'0804'  pad stack refresh starting.
+
+     '0804'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

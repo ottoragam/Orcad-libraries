@@ -1,0 +1,58 @@
+\t (00:13:30) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:13:30)     Journal start - Sat Jun 02 16:08:22 2018
+\t (00:13:30)         Host=G-PC User=ottor Pid=6368 CPUs=4
+\t (00:13:30) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession ottor D:\design\PCB\orcad\projects\pnp-feeder\feeder_driver.brd
+\t (00:13:30) 
+\d (00:13:30) Design opened: D:/design/PCB/orcad/components/connectors/screwless-terminals/combicon/combicon-2.dra
+\t (00:13:31) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:13:31) generaledit 
+\i (00:13:32) zoom out 1 
+\i (00:13:32) setwindow pcb
+\i (00:13:32) zoom out -3.3740 4.5015
+\i (00:13:32) trapsize 397
+\i (00:13:32) zoom out 1 
+\i (00:13:32) setwindow pcb
+\i (00:13:32) zoom out -3.3423 4.3349
+\i (00:13:32) trapsize 793
+\i (00:13:34) step pkg map 
+\i (00:13:43) setwindow form.pkgmap3d
+\i (00:13:43) FORM pkgmap3d stplist '19 84 96 3 v1.step' 
+\i (00:13:59) FORM pkgmap3d rotation_z 90 
+\i (00:14:04) FORM pkgmap3d rotation_z 270 
+\i (00:14:30) FORM pkgmap3d offset_x -4.8 
+\i (00:14:38) FORM pkgmap3d offset_y 3.5 
+\i (00:14:44) FORM pkgmap3d view_orientation Bottom 
+\i (00:14:58) FORM pkgmap3d offset_x -7.3 
+\i (00:15:05) FORM pkgmap3d offset_y 7 
+\i (00:15:09) FORM pkgmap3d offset_y 5 
+\i (00:15:13) FORM pkgmap3d view_orientation Front Left 
+\i (00:15:18) FORM pkgmap3d view_orientation Right 
+\i (00:15:22) FORM pkgmap3d view_orientation Front 
+\i (00:15:29) FORM pkgmap3d view_orientation Bottom 
+\i (00:15:29) FORM pkgmap3d alt_step YES 
+\i (00:15:31) FORM pkgmap3d pri_step YES 
+\i (00:15:33) FORM pkgmap3d view_orientation Top 
+\i (00:15:36) FORM pkgmap3d stplist '19 84 96 3 v1.step' 
+\i (00:15:42) FORM pkgmap3d offset_x -7.3 
+\i (00:15:45) FORM pkgmap3d offset_y 5 
+\i (00:15:51) FORM pkgmap3d rotation_z 90 
+\i (00:15:58) FORM pkgmap3d offset_y -5 
+\i (00:16:01) FORM pkgmap3d offset_x 7.3000 
+\i (00:16:03) FORM pkgmap3d save_current  
+\i (00:16:05) FORM pkgmap3d done  
+\i (00:16:05) setwindow pcb
+\i (00:16:05) generaledit 
+\i (00:16:06) save 
+\i (00:16:08) fillin yes 
+\t (00:16:08) Symbol 'combicon-2.psm' created.
+\i (00:16:08) generaledit 
+\i (00:16:09) open 
+\i (00:16:12) fillin "D:\design\PCB\orcad\components\connectors\usb\micro-usb-smd.dra"
+\i (00:16:12) cd "D:\design\PCB\orcad\components\connectors\usb"
+\t (00:16:12) Opening existing design...
+\i (00:16:12) trapsize 330
+\i (00:16:12) trapsize 335
+\i (00:16:12) trapsize 330
+\t (00:16:12) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:16:12) trapsize 339
+\t (00:16:12)     Journal end - Sat Jun 02 16:11:05 2018

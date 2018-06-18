@@ -1,0 +1,65 @@
+\t (01:54:09) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (01:54:09)     Journal start - Sat Jun 02 14:19:10 2018
+\t (01:54:09)         Host=G-PC User=ottor Pid=17392 CPUs=4
+\t (01:54:09) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (01:54:09) 
+\d (01:54:09) Design opened: D:/design/PCB/orcad/components/connectors/screwless-terminals/combicon/combicon.dra
+\i (01:54:09) generaledit 
+\i (01:54:10) save_as 
+\i (01:54:13) fillin "combicon-2.dra"
+\t (01:54:14) Symbol 'combicon-2.psm' created.
+\i (01:54:14) generaledit 
+\i (01:54:17) create symbol 
+\i (01:54:20) fillin "combicon-2.psm"
+\t (01:54:20) Creating package symbol 'D:/design/PCB/orcad/components/connectors/screwless-terminals/combicon/combicon-2.psm'.
+\t (01:54:20) Starting Create symbol...
+\i (01:54:20) generaledit 
+\i (01:58:37) zoom in 1 
+\i (01:58:37) setwindow pcb
+\i (01:58:37) zoom in -2.1863 1.8315
+\i (01:58:37) trapsize 97
+\i (01:58:37) zoom out 1 
+\i (01:58:37) setwindow pcb
+\i (01:58:37) zoom out -2.1689 1.8875
+\i (01:58:37) trapsize 193
+\i (01:58:37) zoom out 1 
+\i (01:58:37) setwindow pcb
+\i (01:58:37) zoom out -2.1688 1.8876
+\i (01:58:37) trapsize 386
+\i (01:58:37) zoom out 1 
+\i (01:58:37) setwindow pcb
+\i (01:58:37) zoom out -2.1689 1.8876
+\i (01:58:37) trapsize 773
+\i (01:58:37) zoom out 1 
+\i (01:58:37) setwindow pcb
+\i (01:58:37) zoom out -2.1689 1.8876
+\t (01:58:37) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (01:58:37) trapsize 1546
+\i (01:58:37) zoom out 1 
+\i (01:58:37) setwindow pcb
+\i (01:58:37) zoom out -2.1689 1.8877
+\t (01:58:37) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (01:58:37) trapsize 3091
+\i (01:58:37) zoom out 1 
+\i (01:58:37) setwindow pcb
+\i (01:58:37) zoom out -2.1688 1.8876
+\t (01:58:37) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (01:58:37) trapsize 6183
+\i (01:58:37) zoom out 1 
+\i (01:58:37) setwindow pcb
+\i (01:58:37) zoom out -2.1688 1.8877
+\t (01:58:37) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (01:58:37) trapsize 12048
+\i (01:58:38) zoom in 1 
+\i (01:58:38) setwindow pcb
+\i (01:58:38) zoom in 64.5732 -96.1470
+\t (01:58:38) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (01:58:38) trapsize 6024
+\i (01:58:39) zoom in 1 
+\i (01:58:39) setwindow pcb
+\i (01:58:39) zoom in -50.9670 41.6820
+\t (01:58:39) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (01:58:39) trapsize 3012
+\i (02:00:31) new 
+\i (02:00:43) newdrawfillin "pts810.dra" "Package Symbol"
+\t (02:00:43)     Journal end - Sat Jun 02 14:25:44 2018

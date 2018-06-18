@@ -1,0 +1,25 @@
+\t (00:00:00) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon May 28 16:25:34 2018
+\t (00:00:00)         Host=G-PC User=ottor Pid=16544 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged R0603WAVE
+\d (00:00:02) Design opened: D:/design/PCB/orcad/components/resistors/0603/R0603WAVE.dra
+\t (00:00:02) Grids are drawn 102.4000, 102.4000 apart for enhanced viewability.
+\i (00:00:02) trapsize 172
+\i (00:00:02) trapsize 175
+\i (00:00:02) trapsize 172
+\i (00:00:02) trapsize 172
+\i (00:00:02) generaledit 
+\i (00:07:21) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:07:25) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged R0603WAVE
+\i (00:07:25) opencd D:/design/PCB/orcad/projects/pnp-feeder/feeder_driver.brd 
+\t (00:07:25) Opening existing design...
+\i (00:07:25) trapsize 3043
+\i (00:07:25) trapsize 3090
+\i (00:07:25) trapsize 3043
+\t (00:07:25) Grids are drawn 8.0000, 8.0000 apart for enhanced viewability.
+\i (00:07:25) trapsize 3090
+\t (00:07:25)     Journal end - Mon May 28 16:32:59 2018

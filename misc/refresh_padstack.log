@@ -1,0 +1,77 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : standoffm3.dra                                )
+(    Software Version : 17.2S040                                      )
+(    Date/Time        : Thu Jun 07 16:04:25 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Jun 07 16:04:25 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'D:/design/PCB/orcad/components/misc/standoffm3.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/design/PCB/orcad/components/microcontrollers/psoc/psoc5 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           D:/design/PCB/orcad/components/ 
+           D:/design/PCB/orcad/components/motor drivers/AP1010AEN/ 
+           D:/design/PCB/orcad/components/led/0603/ 
+           D:/design/PCB/orcad/components/capacitors/0603/ 
+           D:/design/PCB/orcad/components/resistors/0603/ 
+           D:/design/PCB/orcad/components/capacitors/1206/ 
+           D:/design/PCB/orcad/components/connectors/jst-sh/ 
+           D:/design/PCB/orcad/components/misc/ 
+           D:/design/PCB/orcad/components/connectors/header100/ 
+           D:/design/PCB/orcad/components/connectors/screwless-terminals/combicon/ 
+           D:/design/PCB/orcad/components/connectors/usb/ 
+           D:/design/PCB/orcad/components/opamps/lm324/ 
+           D:/design/PCB/orcad/components/resistors/array/0804 
+           D:/design/PCB/orcad/components/switches/pts810/ 
+           D:/design/PCB/orcad/components/vregs/ldl117/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           D:/design/PCB/orcad/components/microcontrollers/psoc/psoc5 
+           D:/design/PCB/orcad/components/motor drivers/AP1010AEN/ 
+           D:/design/PCB/orcad/components/led/0603/ 
+           D:/design/PCB/orcad/components/capacitors/0603/ 
+           D:/design/PCB/orcad/components/resistors/0603/ 
+           D:/design/PCB/orcad/components/capacitors/1206/ 
+           D:/design/PCB/orcad/components/connectors/jst-sh/ 
+           D:/design/PCB/orcad/components/misc/ 
+           D:/design/PCB/orcad/components/connectors/header100/ 
+           D:/design/PCB/orcad/components/connectors/screwless-terminals/combicon/ 
+           D:/design/PCB/orcad/components/connectors/usb/ 
+           D:/design/PCB/orcad/components/opamps/lm324/ 
+           D:/design/PCB/orcad/components/resistors/array/0804/ 
+           D:/design/PCB/orcad/components/switches/pts810/ 
+           D:/design/PCB/orcad/components/vregs/ldl117/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'STANDOFFM3'  pad stack refresh starting.
+
+     'STANDOFFM3'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

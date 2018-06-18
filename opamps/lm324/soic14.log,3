@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : soic14.dra                                    )
+(    Software Version : 17.2S039                                      )
+(    Date/Time        : Sat Jun 02 12:52:39 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/design/PCB/orcad/components/opamps/lm324
+    Name      = soic14.psm
+    User      = ottor
+    Machine   = G-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

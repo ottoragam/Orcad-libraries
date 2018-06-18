@@ -1,0 +1,42 @@
+\t (00:04:46) allegro 17.2 S040 Windows SPB 64-bit Edition
+\t (00:04:46)     Journal start - Tue Jun 05 16:43:23 2018
+\t (00:04:46)         Host=G-PC User=ottor Pid=8984 CPUs=4
+\t (00:04:46) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:04:46) 
+\d (00:04:46) Design opened: D:/design/PCB/orcad/components/opamps/lm324/soic14.dra
+\i (00:04:47) etchedit 
+\i (00:04:49) step pkg map 
+\i (00:04:54) setwindow form.pkgmap3d
+\i (00:04:54) FORM pkgmap3d done  
+\i (00:04:54) setwindow pcb
+\i (00:04:54) etchedit 
+\i (00:04:57) 3d 
+\i (00:04:58) etchedit 
+\i (00:05:00) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:05:04) pick grid -8.6059 4.2324
+\t (00:05:04) last pick:  -8.6000 4.2000
+\i (00:05:06) enved 
+\i (00:05:07) etchedit 
+\i (00:05:12) setwindow form.prfedit
+\i (00:05:12) FORM prfedit treelist  Library Paths 
+\i (00:05:13) FORM prfedit steppath  
+\i (00:05:25) fillin "menu_cancel"
+\i (00:05:27) FORM prfedit cancel  
+\i (00:05:29) setwindow pcb
+\i (00:05:29) exit 
+\e (00:05:29) Do you want to save the changes you made to soic14.dra?
+\i (00:05:30) fillin menu_cancel 
+\i (00:05:30) etchedit 
+\i (00:05:31) pick grid -8.9557 5.9700
+\t (00:05:31) last pick:  -9.0000 6.0000
+\i (00:05:32) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:05:33) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged soic14
+\i (00:05:33) opencd D:/design/PCB/orcad/projects/pnp-feeder/feeder_driver.brd 
+\e (00:05:34) Do you want to save the changes you made to soic14.dra?
+\i (00:05:35) fillin no 
+\t (00:05:35) Opening existing design...
+\i (00:05:35) trapsize 3090
+\i (00:05:35) trapsize 3137
+\i (00:05:35) trapsize 3090
+\i (00:05:35) trapsize 3137
+\t (00:05:36)     Journal end - Tue Jun 05 16:44:13 2018

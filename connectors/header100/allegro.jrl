@@ -1,0 +1,44 @@
+\t (00:18:38) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:18:38)     Journal start - Sat Jun 02 16:13:30 2018
+\t (00:18:38)         Host=G-PC User=ottor Pid=6368 CPUs=4
+\t (00:18:38) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession ottor D:\design\PCB\orcad\projects\pnp-feeder\feeder_driver.brd
+\t (00:18:38) 
+\d (00:18:38) Design opened: D:/design/PCB/orcad/components/connectors/header100/header100-5.dra
+\t (00:18:38) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:18:38) generaledit 
+\i (00:18:39) 3d 
+\i (00:18:40) generaledit 
+\i (00:18:53) QtSignal pcb3dViewerCamMenu Front triggered
+\i (00:19:00) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1369 1652 1369 1707 0 0 -120
+\i (00:19:00) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1342 1628 1342 1683 0 0 -120
+\i (00:19:00) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1629 1404 1629 1459 0 0 120
+\i (00:19:00) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1640 1377 1640 1432 0 0 120
+\i (00:19:00) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 1640 1375 1640 1430 0 0 120
+\i (00:19:04) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:19:06) step pkg map 
+\i (00:19:13) setwindow form.pkgmap3d
+\i (00:19:13) FORM pkgmap3d offset_z 0.0 
+\i (00:19:14) FORM pkgmap3d view_orientation Front 
+\i (00:19:18) FORM pkgmap3d offset_z 1 
+\i (00:19:23) FORM pkgmap3d offset_z 0 
+\i (00:19:24) FORM pkgmap3d save_current  
+\i (00:19:26) FORM pkgmap3d done  
+\i (00:19:26) setwindow pcb
+\i (00:19:26) generaledit 
+\i (00:19:27) 3d 
+\i (00:19:27) generaledit 
+\i (00:19:30) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:19:31) save 
+\i (00:19:32) fillin yes 
+\t (00:19:33) Symbol 'header100-5.psm' created.
+\i (00:19:33) generaledit 
+\i (00:19:33) open 
+\i (00:19:38) fillin "D:\design\PCB\orcad\components\connectors\jst-sh\BM04B-SRSS-TB.dra"
+\i (00:19:38) cd "D:\design\PCB\orcad\components\connectors\jst-sh"
+\t (00:19:38) Opening existing design...
+\i (00:19:38) trapsize 148
+\i (00:19:38) trapsize 150
+\i (00:19:38) trapsize 148
+\t (00:19:38) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:19:38) trapsize 152
+\t (00:19:39)     Journal end - Sat Jun 02 16:14:31 2018

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : combicon-2.dra                                )
+(    Software Version : 17.2S039                                      )
+(    Date/Time        : Sat Jun 02 16:11:00 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/design/PCB/orcad/components/connectors/screwless-terminals/combicon
+    Name      = combicon-2.psm
+    User      = ottor
+    Machine   = G-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

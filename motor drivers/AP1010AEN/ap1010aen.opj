@@ -1,0 +1,31 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\ap1010aen.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\ap1010aen.olb")
+      (Select "Design Resources" ".\ap1010aen.olb" "AP1010AEN"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 851"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 286 2817 286 1300"))
+      (Path
+         "D:\DESIGN\PCB\ORCAD\COMPONENTS\MOTOR DRIVERS\AP1010AEN\AP1010AEN.OLB")
+      (Package "AP1010AEN")
+      (PartType "1")))
+  (MPSSessionName "ottor"))

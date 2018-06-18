@@ -1,0 +1,3 @@
+#STEP_FILE ! FILE_SIZE ! MOD_TIME
+
+micro-usb-b v1.step ! 258326 ! 1528322203

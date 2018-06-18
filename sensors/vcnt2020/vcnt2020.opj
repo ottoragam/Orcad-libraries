@@ -1,0 +1,29 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\vcnt2020.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\vcnt2020.olb")
+      (Select "Design Resources" ".\vcnt2020.olb" "VCNT2020"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 975"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 2419 182 1196"))
+      (Path "D:\DESIGN\PCB\ORCAD\COMPONENTS\SENSORS\VCNT2020\VCNT2020.OLB")
+      (Package "VCNT2020")
+      (PartType "1"))))

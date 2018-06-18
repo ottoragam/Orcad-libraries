@@ -1,0 +1,30 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\r0603.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\r0603.olb")
+      (Select "Design Resources" ".\r0603.olb" "R0603"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 860"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 2445 130 1029"))
+      (Path "D:\DESIGN\PCB\ORCAD\COMPONENTS\RESISTORS\0603\R0603.OLB")
+      (Package "R0603")
+      (PartType "1")))
+  (MPSSessionName "ottor"))

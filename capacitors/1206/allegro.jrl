@@ -1,0 +1,42 @@
+\t (00:11:57) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:11:57)     Journal start - Wed May 30 12:10:22 2018
+\t (00:11:57)         Host=G-PC User=ottor Pid=10164 CPUs=4
+\t (00:11:57) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:11:57) 
+\d (00:11:57) Design opened: D:/design/PCB/orcad/components/capacitors/1206/C1206WAVE.dra
+\i (00:11:58) generaledit 
+\i (00:12:00) refresh padstack 
+\i (00:12:01) setwindow form.rf_pad
+\i (00:12:01) FORM rf_pad execute  
+\t (00:12:01) Starting Refreshing padstacks...
+\t (00:12:01) Opening existing design...
+\i (00:12:01) setwindow pcb
+\i (00:12:01) trapsize 198
+\i (00:12:01) trapsize 201
+\i (00:12:01) trapsize 198
+\i (00:12:01) trapsize 204
+\i (00:12:03) setwindow form.rf_pad
+\i (00:12:03) FORM rf_pad cancel  
+\i (00:12:03) setwindow pcb
+\i (00:12:03) generaledit 
+\i (00:12:08) create symbol 
+\i (00:12:10) fillin "c1206wave.psm"
+\t (00:12:10) Creating package symbol 'D:/design/PCB/orcad/components/capacitors/1206/c1206wave.psm'.
+\t (00:12:10) Starting Create symbol...
+\i (00:12:11) generaledit 
+\i (00:12:12) save 
+\i (00:12:13) fillin yes 
+\t (00:12:13) Symbol 'c1206wave.psm' created.
+\i (00:12:13) generaledit 
+\i (00:12:33) open 
+\i (00:12:35) fillin "menu_cancel"
+\i (00:12:35) generaledit 
+\i (00:12:35) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:12:37) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged C1206WAVE
+\i (00:12:37) opencd D:/design/PCB/orcad/projects/pnp-feeder/feeder_driver.brd 
+\t (00:12:37) Opening existing design...
+\i (00:12:38) trapsize 3091
+\i (00:12:38) trapsize 3138
+\i (00:12:38) trapsize 3091
+\i (00:12:38) trapsize 3138
+\t (00:12:38)     Journal end - Wed May 30 12:11:02 2018

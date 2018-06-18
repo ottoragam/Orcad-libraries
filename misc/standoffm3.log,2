@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : standoffm3.dra                                )
+(    Software Version : 17.2S040                                      )
+(    Date/Time        : Thu Jun 07 16:04:32 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = D:/design/PCB/orcad/components/misc
+    Name      = standoffm3.bsm
+    User      = ottor
+    Machine   = G-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

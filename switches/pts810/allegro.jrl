@@ -1,0 +1,43 @@
+\t (00:22:23) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:22:23)     Journal start - Sat Jun 02 16:17:15 2018
+\t (00:22:23)         Host=G-PC User=ottor Pid=6368 CPUs=4
+\t (00:22:23) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession ottor D:\design\PCB\orcad\projects\pnp-feeder\feeder_driver.brd
+\t (00:22:23) 
+\d (00:22:23) Design opened: D:/design/PCB/orcad/components/switches/pts810/pts810.dra
+\t (00:22:23) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:22:23) generaledit 
+\i (00:22:28) step pkg map 
+\i (00:22:37) setwindow form.pkgmap3d
+\i (00:22:37) FORM pkgmap3d stplist 'pts810 v1.step' 
+\i (00:22:40) FORM pkgmap3d view_orientation Top 
+\i (00:22:42) FORM pkgmap3d save_current  
+\i (00:22:43) FORM pkgmap3d done  
+\i (00:22:43) setwindow pcb
+\i (00:22:43) generaledit 
+\i (00:22:44) 3d 
+\i (00:22:45) generaledit 
+\i (00:22:56) QtSignal pcb3dViewerCamMenu Top triggered
+\i (00:23:00) QtSignal pcb3dViewerCamMenu Bottom triggered
+\i (00:23:06) QtSignal pcb3dViewerCamMenu Top triggered
+\i (00:23:11) QtSignal pcb3dViewerCamMenu Isometric triggered
+\i (00:23:19) QtSignal pcb3dViewerCamMenu Front triggered
+\i (00:23:25) QtSignal pcb3dViewerCamMenu Left triggered
+\i (00:23:32) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:23:32) exit 
+\e (00:23:32) Do you want to save the changes you made to pts810.dra?
+\i (00:23:34) fillin menu_cancel 
+\i (00:23:34) generaledit 
+\i (00:23:35) save 
+\i (00:23:36) fillin yes 
+\t (00:23:36) Symbol 'pts810.psm' created.
+\i (00:23:36) generaledit 
+\i (00:23:37) open 
+\i (00:23:46) fillin "D:\design\PCB\orcad\components\vregs\ldl117\sot223.dra"
+\i (00:23:46) cd "D:\design\PCB\orcad\components\vregs\ldl117"
+\t (00:23:46) Opening existing design...
+\i (00:23:46) trapsize 753
+\i (00:23:46) trapsize 764
+\i (00:23:46) trapsize 753
+\t (00:23:46) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:23:46) trapsize 773
+\t (00:23:46)     Journal end - Sat Jun 02 16:18:39 2018

@@ -1,0 +1,48 @@
+\t (00:11:38) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:11:38)     Journal start - Wed May 30 12:10:02 2018
+\t (00:11:38)         Host=G-PC User=ottor Pid=10164 CPUs=4
+\t (00:11:38) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:11:38) 
+\d (00:11:38) Design opened: D:/design/PCB/orcad/components/capacitors/0603/C0603WAVE.dra
+\i (00:11:38) generaledit 
+\i (00:11:40) refresh padstack 
+\i (00:11:41) setwindow form.rf_pad
+\i (00:11:41) FORM rf_pad execute  
+\t (00:11:41) Starting Refreshing padstacks...
+\t (00:11:41) Opening existing design...
+\i (00:11:42) setwindow pcb
+\i (00:11:42) trapsize 105
+\i (00:11:42) trapsize 106
+\i (00:11:42) trapsize 105
+\i (00:11:42) trapsize 107
+\i (00:11:43) setwindow form.rf_pad
+\i (00:11:43) FORM rf_pad cancel  
+\i (00:11:43) setwindow pcb
+\i (00:11:43) generaledit 
+\i (00:11:45) create device 
+\i (00:11:46) setwindow form.crdevice
+\i (00:11:46) FORM crdevice cancel  
+   (00:11:46) Loading cmds.cxt 
+\i (00:11:46) setwindow pcb
+\i (00:11:46) generaledit 
+\i (00:11:47) create symbol 
+\i (00:11:48) fillin "menu_cancel"
+\i (00:11:48) generaledit 
+\i (00:11:49) create symbol 
+\i (00:11:51) fillin "c0603wave.psm"
+\t (00:11:51) Creating package symbol 'D:/design/PCB/orcad/components/capacitors/0603/c0603wave.psm'.
+\t (00:11:51) Starting Create symbol...
+\i (00:11:51) generaledit 
+\i (00:11:52) save 
+\i (00:11:53) fillin yes 
+\t (00:11:54) Symbol 'c0603wave.psm' created.
+\i (00:11:54) generaledit 
+\i (00:11:54) open 
+\i (00:11:57) fillin "D:\design\PCB\orcad\components\capacitors\1206\C1206WAVE.dra"
+\i (00:11:57) cd "D:\design\PCB\orcad\components\capacitors\1206"
+\t (00:11:57) Opening existing design...
+\i (00:11:57) trapsize 193
+\i (00:11:57) trapsize 196
+\i (00:11:57) trapsize 193
+\i (00:11:57) trapsize 198
+\t (00:11:57)     Journal end - Wed May 30 12:10:22 2018

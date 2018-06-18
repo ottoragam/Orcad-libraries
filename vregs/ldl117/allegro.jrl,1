@@ -1,0 +1,28 @@
+\t (00:00:00) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Jun 02 15:46:09 2018
+\t (00:00:00)         Host=G-PC User=ottor Pid=8556 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged sot223
+\d (00:00:02) Design opened: D:/design/PCB/orcad/components/vregs/ldl117/sot223.dra
+\t (00:00:02) Grids are drawn 102.4000, 102.4000 apart for enhanced viewability.
+\i (00:00:02) trapsize 753
+\i (00:00:02) trapsize 764
+\i (00:00:02) trapsize 753
+\i (00:00:02) trapsize 753
+\i (00:00:02) generaledit 
+\i (00:00:08) enved 
+\i (00:00:08) generaledit 
+\i (00:00:12) setwindow form.prfedit
+\i (00:00:12) FORM prfedit treelist  Library Paths 
+\i (00:00:14) FORM prfedit padpath  
+\i (00:01:28) FORM prfedit psmpath  
+\i (00:02:20) FORM prfedit steppath  
+\i (00:03:16) FORM prfedit apply  
+\i (00:03:19) FORM prfedit done  
+\i (00:03:23) setwindow pcb
+\i (00:03:23) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:03:28) exit 
+\t (00:03:28)     Journal end - Sat Jun 02 15:49:37 2018

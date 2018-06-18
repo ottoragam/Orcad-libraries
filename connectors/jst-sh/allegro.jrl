@@ -1,0 +1,26 @@
+\t (00:00:00) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Jun 02 16:48:06 2018
+\t (00:00:00)         Host=G-PC User=ottor Pid=4248 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged BM04B-SRSS-TB
+\d (00:00:02) Design opened: D:/design/PCB/orcad/components/connectors/jst-sh/BM04B-SRSS-TB.dra
+\t (00:00:02) Grids are drawn 102.4000, 102.4000 apart for enhanced viewability.
+\i (00:00:02) trapsize 152
+\i (00:00:02) trapsize 154
+\i (00:00:02) trapsize 152
+\i (00:00:02) trapsize 152
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged BM04B-SRSS-TB
+\i (00:00:05) opencd D:/design/PCB/orcad/projects/pnp-feeder/feeder_driver.brd 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 381
+\i (00:00:05) trapsize 386
+\i (00:00:05) trapsize 381
+\t (00:00:05) Grids are drawn 1.0000, 1.0000 apart for enhanced viewability.
+\i (00:00:05) trapsize 386
+\i (00:00:05) trapsize 392
+\i (00:00:05) trapsize 1763350
+\t (00:00:05)     Journal end - Sat Jun 02 16:48:11 2018

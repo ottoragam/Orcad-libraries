@@ -1,0 +1,22 @@
+\t (00:28:19) allegro 17.2 S040 Windows SPB 64-bit Edition
+\t (00:28:19)     Journal start - Thu Jun 07 16:07:55 2018
+\t (00:28:19)         Host=G-PC User=ottor Pid=10924 CPUs=4
+\t (00:28:19) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Cadence\SPB_17.2\share\pcb\pcb_lib\symbols\mtg125.dra
+\t (00:28:19) 
+\d (00:28:19) Design opened: D:/design/PCB/orcad/components/misc/standoffm3.dra
+\i (00:28:19) trapsize 287
+\i (00:28:19) etchedit 
+\i (00:28:21) create symbol 
+\i (00:28:23) fillin "standoffm3.bsm"
+\t (00:28:23) Creating mechanical symbol 'D:/design/PCB/orcad/components/misc/standoffm3.bsm'.
+\t (00:28:23) Starting Create symbol...
+\i (00:28:24) etchedit 
+\i (00:28:24) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:28:26) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged standoffm3
+\i (00:28:26) opencd D:/design/PCB/orcad/projects/pnp-feeder/feeder_driver.brd 
+\t (00:28:26) Opening existing design...
+\i (00:28:26) trapsize 2799
+\i (00:28:26) trapsize 2842
+\i (00:28:27) trapsize 2799
+\i (00:28:27) trapsize 2799
+\t (00:28:27)     Journal end - Thu Jun 07 16:08:03 2018

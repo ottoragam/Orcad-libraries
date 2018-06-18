@@ -1,0 +1,32 @@
+\t (00:11:21) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:11:21)     Journal start - Sat Jun 02 16:06:13 2018
+\t (00:11:21)         Host=G-PC User=ottor Pid=6368 CPUs=4
+\t (00:11:21) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession ottor D:\design\PCB\orcad\projects\pnp-feeder\feeder_driver.brd
+\t (00:11:21) 
+\d (00:11:21) Design opened: D:/design/PCB/orcad/components/connectors/header100/header100-5.dra
+\t (00:11:21) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:11:21) generaledit 
+\i (00:11:23) step pkg map 
+\i (00:11:30) setwindow form.pkgmap3d
+\i (00:11:30) FORM pkgmap3d stplist 'header100-5 v2 v1.step' 
+\i (00:11:43) FORM pkgmap3d view_orientation Front 
+\i (00:11:57) FORM pkgmap3d offset_x 1.16 
+\i (00:12:08) FORM pkgmap3d view_orientation Top 
+\i (00:12:16) FORM pkgmap3d offset_x 10.16 
+\i (00:12:19) FORM pkgmap3d save_current  
+\i (00:12:20) FORM pkgmap3d done  
+\i (00:12:20) setwindow pcb
+\i (00:12:20) generaledit 
+\i (00:12:21) open 
+\e (00:12:21) Do you want to save the changes you made to header100-5.dra?
+\i (00:12:23) fillin yes 
+\t (00:12:23) Symbol 'header100-5.psm' created.
+\i (00:12:30) fillin "D:\design\PCB\orcad\components\connectors\jst-sh\BM04B-SRSS-TB.dra"
+\i (00:12:30) cd "D:\design\PCB\orcad\components\connectors\jst-sh"
+\t (00:12:30) Opening existing design...
+\i (00:12:30) trapsize 144
+\i (00:12:30) trapsize 147
+\i (00:12:30) trapsize 144
+\t (00:12:30) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:12:30) trapsize 148
+\t (00:12:31)     Journal end - Sat Jun 02 16:07:23 2018
